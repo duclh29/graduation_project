@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c8f00000001",
+    "createdAt": "2026-05-22T08:15:00.045Z",
+    "updatedAt": "2026-05-22T08:15:00.045Z",
+    "code": "GIAM50K",
+    "description": "Gi?m 50K cho ??n h?ng t? 500K",
+    "discountValue": 50000,
+    "endAt": "2026-06-22T08:15:00.044Z",
+    "maxDiscountValue": null,
+    "minimumOrderAmount": 500000,
+    "startAt": "2026-05-21T08:15:00.044Z",
+    "status": "ACTIVE",
+    "type": "FIXED_AMOUNT",
+    "usageLimit": 100,
+    "usedCount": 0
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8f00000002",
+    "createdAt": "2026-05-22T08:15:00.050Z",
+    "updatedAt": "2026-05-22T08:15:00.050Z",
+    "code": "GIAM10PT",
+    "description": "Giảm 10% tối đa 100K",
+    "discountValue": 10,
+    "endAt": "2026-06-22T08:15:00.050Z",
+    "maxDiscountValue": 100000,
+    "minimumOrderAmount": 0,
+    "startAt": "2026-05-21T08:15:00.050Z",
+    "status": "ACTIVE",
+    "type": "PERCENTAGE",
+    "usageLimit": 200,
+    "usedCount": 0
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8f00000003",
+    "createdAt": "2026-05-22T08:15:00.054Z",
+    "updatedAt": "2026-05-22T08:15:00.054Z",
+    "code": "FREESHIP",
+    "description": "Miễn phí vận chuyển",
+    "discountValue": 30000,
+    "endAt": "2026-06-22T08:15:00.053Z",
+    "maxDiscountValue": null,
+    "minimumOrderAmount": 1000000,
+    "startAt": "2026-05-21T08:15:00.053Z",
+    "status": "ACTIVE",
+    "type": "FREE_SHIPPING",
+    "usageLimit": 50,
+    "usedCount": 0
+  }
+]

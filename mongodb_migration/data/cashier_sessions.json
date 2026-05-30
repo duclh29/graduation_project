@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1ca000000001",
+    "createdAt": "2026-05-28T08:00:00.000Z",
+    "updatedAt": "2026-05-28T17:30:00.000Z",
+    "cashierName": "Nguyen Van An",
+    "openedAt": "2026-05-28T08:00:00.000Z",
+    "closedAt": "2026-05-28T17:30:00.000Z",
+    "openingCash": 1000000,
+    "closingCash": 3880000,
+    "status": "CLOSED",
+    "note": "Phiên làm việc POS thứ 5 hoàn tất tốt đẹp"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1ca000000002",
+    "createdAt": "2026-05-29T08:00:00.000Z",
+    "updatedAt": "2026-05-29T08:00:00.000Z",
+    "cashierName": "Tran Thi Binh",
+    "openedAt": "2026-05-29T08:00:00.000Z",
+    "openingCash": 1000000,
+    "status": "OPEN",
+    "note": "Phiên làm việc POS sáng thứ 6 đang mở"
+  }
+]

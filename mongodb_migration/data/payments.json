@@ -1,0 +1,61 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9d00000001",
+    "createdAt": "2026-05-28T09:35:00.000Z",
+    "updatedAt": "2026-05-28T09:40:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000001"
+    },
+    "method": "MIXED",
+    "status": "PAID",
+    "amount": 2880000,
+    "provider": "POS_COUNTER",
+    "transactionCode": "TX-POS-001",
+    "paidAt": "2026-05-28T09:40:00.000Z",
+    "note": "Thanh toán hỗn hợp tại quầy thu ngân"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9d00000002",
+    "createdAt": "2026-05-29T08:15:00.000Z",
+    "updatedAt": "2026-05-29T08:15:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000002"
+    },
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "method": "COD",
+    "status": "PENDING",
+    "amount": 1155000,
+    "provider": "COD_PARTNER",
+    "transactionCode": "TX-COD-002",
+    "note": "Thanh toán khi nhận hàng"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9d00000003",
+    "createdAt": "2026-05-29T14:00:00.000Z",
+    "updatedAt": "2026-05-29T14:00:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000003"
+    },
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "method": "BANK_TRANSFER",
+    "status": "PAID",
+    "amount": 1380000,
+    "provider": "VIETCOMBANK",
+    "transactionCode": "TX-VCB-003",
+    "paidAt": "2026-05-29T14:05:00.000Z",
+    "note": "Khách chuyển khoản ngân hàng trực tiếp"
+  }
+]

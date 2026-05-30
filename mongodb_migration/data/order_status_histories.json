@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9c00000001",
+    "createdAt": "2026-05-28T09:30:00.000Z",
+    "updatedAt": "2026-05-28T09:30:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "status": "PENDING",
+    "actorName": "System Admin",
+    "changedAt": "2026-05-28T09:30:00.000Z",
+    "note": "Tạo đơn hàng trực tiếp tại quầy"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9c00000002",
+    "createdAt": "2026-05-28T09:35:00.000Z",
+    "updatedAt": "2026-05-28T09:35:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "status": "PROCESSING",
+    "actorName": "System Admin",
+    "changedAt": "2026-05-28T09:35:00.000Z",
+    "note": "Khách hàng thanh toán và nhận sản phẩm tại quầy"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9c00000003",
+    "createdAt": "2026-05-28T10:00:00.000Z",
+    "updatedAt": "2026-05-28T10:00:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "status": "DELIVERED",
+    "actorName": "System Admin",
+    "changedAt": "2026-05-28T10:00:00.000Z",
+    "note": "Hoàn tất đơn hàng POS"
+  }
+]

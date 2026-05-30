@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1ca400000001",
+    "createdAt": "2026-05-27T09:00:00.000Z",
+    "updatedAt": "2026-05-27T09:00:00.000Z",
+    "schedule": {
+      "$ref": "work_schedules",
+      "$id": "60b9b3e1f0e4b85c1c9500000001"
+    },
+    "action": "CREATE",
+    "actor": "System Admin",
+    "newValueJson": "{\"scheduleId\":\"60b9b3e1f0e4b85c1c9500000001\",\"user\":\"staff.an@local.com\",\"shift\":\"Ca Sáng\",\"workDate\":\"2026-05-28\"}"
+  }
+]

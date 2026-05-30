@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1ca200000001",
+    "createdAt": "2026-05-29T09:00:00.000Z",
+    "updatedAt": "2026-05-29T09:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "coupon": {
+      "$ref": "coupons",
+      "$id": "60b9b3e1f0e4b85c1c8f00000001"
+    },
+    "status": "UNUSED"
+  }
+]

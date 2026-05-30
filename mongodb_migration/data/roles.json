@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c8a00000001",
+    "createdAt": "2026-05-22T08:14:59.461Z",
+    "updatedAt": "2026-05-22T08:14:59.461Z",
+    "description": "System Role: ADMIN",
+    "name": "ADMIN"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8a00000002",
+    "createdAt": "2026-05-22T08:14:59.504Z",
+    "updatedAt": "2026-05-22T08:14:59.504Z",
+    "description": "System Role: STAFF",
+    "name": "STAFF"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8a00000003",
+    "createdAt": "2026-05-22T08:14:59.510Z",
+    "updatedAt": "2026-05-22T08:14:59.510Z",
+    "description": "System Role: CUSTOMER",
+    "name": "CUSTOMER"
+  }
+]

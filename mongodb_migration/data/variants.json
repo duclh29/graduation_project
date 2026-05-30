@@ -1,0 +1,2282 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000001",
+    "createdAt": "2026-05-22T08:15:00.081Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/01120ec4-498e-4bb8-86cc-12df763a5779.avif",
+    "sku": "SKU-1-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000001"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000002",
+    "createdAt": "2026-05-22T08:15:00.091Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/0c8a45c7-c0a7-4ce9-9db2-d7936c22bdfe.avif",
+    "sku": "SKU-2-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000002"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000003",
+    "createdAt": "2026-05-22T08:15:00.101Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/157c1632-d39c-4738-a20f-4cf57f6fd5f9.avif",
+    "sku": "SKU-3-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000003"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000004",
+    "createdAt": "2026-05-22T08:15:00.112Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/1e48630f-420b-458b-841b-d3723d56fc4e.avif",
+    "sku": "SKU-4-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000004"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000005",
+    "createdAt": "2026-05-22T08:15:00.124Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/2cfcbb5f-366b-41b0-8bfa-b6a33e4bc756.avif",
+    "sku": "SKU-5-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000005"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000006",
+    "createdAt": "2026-05-22T08:15:00.134Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/34362059-cca5-458f-8dbe-4e7ac72d0a61.avif",
+    "sku": "SKU-6-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000006"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000007",
+    "createdAt": "2026-05-22T08:15:00.146Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/3e7a52a6-3814-4a73-95bd-aa00e920386b.avif",
+    "sku": "SKU-7-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000007"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000008",
+    "createdAt": "2026-05-22T08:15:00.160Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/4417bb9e-c360-410b-8800-9bce5e5d0d2d.avif",
+    "sku": "SKU-8-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000008"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000009"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000009",
+    "createdAt": "2026-05-22T08:15:00.168Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/494375da-2c23-4bef-8d50-12f24dd64fc0.avif",
+    "sku": "SKU-9-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000009"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000a",
+    "createdAt": "2026-05-22T08:15:00.180Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/4f37aa2f-8fac-4c2e-9300-4a8f85c127c2.avif",
+    "sku": "SKU-10-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000b",
+    "createdAt": "2026-05-22T08:15:00.187Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/54b4a464-99be-4b85-b97e-917bd643f731.avif",
+    "sku": "SKU-11-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000c",
+    "createdAt": "2026-05-22T08:15:00.198Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/62f4ca04-c5d1-4292-9390-a10f91c4ff73.avif",
+    "sku": "SKU-12-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000d",
+    "createdAt": "2026-05-22T08:15:00.206Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/69a56bca-3672-4078-ba06-58feb3d727dd.avif",
+    "sku": "SKU-13-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000d"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000e",
+    "createdAt": "2026-05-22T08:15:00.216Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/70c5c6e4-1767-410b-8fea-07def18ac506.avif",
+    "sku": "SKU-14-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000e"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000f",
+    "createdAt": "2026-05-22T08:15:00.223Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/7ded80a4-fce0-4e08-ba3e-76db2d7f0c66.avif",
+    "sku": "SKU-15-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000010",
+    "createdAt": "2026-05-22T08:15:00.231Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/862233c8-0f9f-4cba-83c1-170a2772434c.avif",
+    "sku": "SKU-16-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000010"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000011",
+    "createdAt": "2026-05-22T08:15:00.237Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/958887dc-45bd-4d14-94e1-2f8df2c70bf2.avif",
+    "sku": "SKU-17-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000011"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000009"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000012",
+    "createdAt": "2026-05-22T08:15:00.246Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/9a6a7fe8-bacd-4ec9-8b01-721d4f637406.avif",
+    "sku": "SKU-18-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000012"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000013",
+    "createdAt": "2026-05-22T08:15:00.256Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/9d5bffbe-83b1-4126-a9de-8d5373c3ec8a.avif",
+    "sku": "SKU-19-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000013"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000014",
+    "createdAt": "2026-05-22T08:15:00.268Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/b0d70a7c-71a1-4958-8b3e-25ccd8a145c9.avif",
+    "sku": "SKU-20-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000014"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000015",
+    "createdAt": "2026-05-22T08:15:00.281Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/b95e5372-fcd9-4819-b1dd-672776fa94ac.avif",
+    "sku": "SKU-21-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000015"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000016",
+    "createdAt": "2026-05-22T08:15:00.293Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/c47ee490-72f1-442e-952e-3e8aa79a118b.avif",
+    "sku": "SKU-22-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000016"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000017",
+    "createdAt": "2026-05-22T08:15:00.302Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/cccfad75-489b-4fc0-8b3b-c285ab05519c.png",
+    "sku": "SKU-23-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000017"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000018",
+    "createdAt": "2026-05-22T08:15:00.312Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d5171f49-36ba-4c73-b026-49c9696273a6.avif",
+    "sku": "SKU-24-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000018"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9100000019",
+    "createdAt": "2026-05-22T08:15:00.320Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d9a751e1-a97c-4ead-8849-1def739db166.avif",
+    "sku": "SKU-25-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c9000000019"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000001a",
+    "createdAt": "2026-05-22T08:15:00.328Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/e45d7333-b363-45be-9a2e-2b94c6ccf5be.avif",
+    "sku": "SKU-26-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000001a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000009"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000001b",
+    "createdAt": "2026-05-22T08:15:00.335Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/eae3909e-613c-4aad-ade9-03dd598d75fe.avif",
+    "sku": "SKU-27-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000001b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000001c",
+    "createdAt": "2026-05-22T08:15:00.345Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/ef559659-75f9-4c37-962c-d4d64d693bf4.avif",
+    "sku": "SKU-28-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000001c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000001d",
+    "createdAt": "2026-05-22T08:15:00.353Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/f9652f22-bd14-46f7-9021-4a59922fba21.avif",
+    "sku": "SKU-29-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000001d"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000001e",
+    "createdAt": "2026-05-22T08:15:00.363Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/0120b05e-60d6-4dab-beb5-cd02e4a11a0c.avif",
+    "sku": "SKU-30-0",
+    "status": "ACTIVE",
+    "stockQuantity": 10,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000001e"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000001f",
+    "createdAt": "2026-05-30T10:31:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/0f5c7a67-3bba-4762-85ce-c63867cedbd4.avif",
+    "sku": "NIK-PEG41-WBK-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000001f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000020",
+    "createdAt": "2026-05-30T10:31:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/0f5c7a67-3bba-4762-85ce-c63867cedbd4.avif",
+    "sku": "NIK-PEG41-WBK-40",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000001f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000021",
+    "createdAt": "2026-05-30T10:31:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/0f5c7a67-3bba-4762-85ce-c63867cedbd4.avif",
+    "sku": "NIK-PEG41-WBK-41",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000001f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000022",
+    "createdAt": "2026-05-30T10:32:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/18433f7e-be03-43d7-8c54-9b40113a0477.avif",
+    "sku": "NIK-DUNK-PANDA-38",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000020"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000023",
+    "createdAt": "2026-05-30T10:32:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/18433f7e-be03-43d7-8c54-9b40113a0477.avif",
+    "sku": "NIK-DUNK-PANDA-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000020"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000024",
+    "createdAt": "2026-05-30T10:32:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/18433f7e-be03-43d7-8c54-9b40113a0477.avif",
+    "sku": "NIK-DUNK-PANDA-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000020"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000025",
+    "createdAt": "2026-05-30T10:33:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/Red/White",
+    "imageUrl": "/uploads/products/20388e3d-122a-4c7b-9742-f7f308447052.avif",
+    "sku": "NIK-AJ1L-BRED-40",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000021"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000026",
+    "createdAt": "2026-05-30T10:33:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/Red/White",
+    "imageUrl": "/uploads/products/20388e3d-122a-4c7b-9742-f7f308447052.avif",
+    "sku": "NIK-AJ1L-BRED-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000021"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000027",
+    "createdAt": "2026-05-30T10:33:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/Red/White",
+    "imageUrl": "/uploads/products/20388e3d-122a-4c7b-9742-f7f308447052.avif",
+    "sku": "NIK-AJ1L-BRED-42",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000021"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000028",
+    "createdAt": "2026-05-30T10:34:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/2d104c14-b886-44d0-b665-d72e857ab6b3.avif",
+    "sku": "NIK-INFR4-BW-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000022"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000029",
+    "createdAt": "2026-05-30T10:34:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/2d104c14-b886-44d0-b665-d72e857ab6b3.avif",
+    "sku": "NIK-INFR4-BW-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000022"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000002a",
+    "createdAt": "2026-05-30T10:34:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/2d104c14-b886-44d0-b665-d72e857ab6b3.avif",
+    "sku": "NIK-INFR4-BW-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000022"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000002b",
+    "createdAt": "2026-05-30T10:35:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Core Black",
+    "imageUrl": "/uploads/products/346bdf3d-babd-4b49-9b59-9d385938a7b4.avif",
+    "sku": "ADI-UB5-BLK-39",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000023"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000002c",
+    "createdAt": "2026-05-30T10:35:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Core Black",
+    "imageUrl": "/uploads/products/346bdf3d-babd-4b49-9b59-9d385938a7b4.avif",
+    "sku": "ADI-UB5-BLK-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000023"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000002d",
+    "createdAt": "2026-05-30T10:35:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Core Black",
+    "imageUrl": "/uploads/products/346bdf3d-babd-4b49-9b59-9d385938a7b4.avif",
+    "sku": "ADI-UB5-BLK-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000023"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000002e",
+    "createdAt": "2026-05-30T10:36:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Grey/White",
+    "imageUrl": "/uploads/products/3ee3a622-5db1-493a-86e1-9f958582b7fd.avif",
+    "sku": "ADI-CAMP-GRY-38",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000024"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000002f",
+    "createdAt": "2026-05-30T10:36:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Grey/White",
+    "imageUrl": "/uploads/products/3ee3a622-5db1-493a-86e1-9f958582b7fd.avif",
+    "sku": "ADI-CAMP-GRY-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000024"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000030",
+    "createdAt": "2026-05-30T10:36:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Grey/White",
+    "imageUrl": "/uploads/products/3ee3a622-5db1-493a-86e1-9f958582b7fd.avif",
+    "sku": "ADI-CAMP-GRY-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000024"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000031",
+    "createdAt": "2026-05-30T10:37:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Cloud White/Green",
+    "imageUrl": "/uploads/products/4455ecea-835e-4ac3-85c9-7a6d07d83588.avif",
+    "sku": "ADI-STAN-WGR-38",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000025"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000032",
+    "createdAt": "2026-05-30T10:37:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Cloud White/Green",
+    "imageUrl": "/uploads/products/4455ecea-835e-4ac3-85c9-7a6d07d83588.avif",
+    "sku": "ADI-STAN-WGR-39",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000025"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000033",
+    "createdAt": "2026-05-30T10:37:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Cloud White/Green",
+    "imageUrl": "/uploads/products/4455ecea-835e-4ac3-85c9-7a6d07d83588.avif",
+    "sku": "ADI-STAN-WGR-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000025"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000034",
+    "createdAt": "2026-05-30T10:38:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Lucid Lemon/Core Black",
+    "imageUrl": "/uploads/products/4abd9830-8b65-4e0b-b764-d4f0045cb121.avif",
+    "sku": "ADI-BOS12-LEM-40",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000026"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000035",
+    "createdAt": "2026-05-30T10:38:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Lucid Lemon/Core Black",
+    "imageUrl": "/uploads/products/4abd9830-8b65-4e0b-b764-d4f0045cb121.avif",
+    "sku": "ADI-BOS12-LEM-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000026"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000036",
+    "createdAt": "2026-05-30T10:38:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Lucid Lemon/Core Black",
+    "imageUrl": "/uploads/products/4abd9830-8b65-4e0b-b764-d4f0045cb121.avif",
+    "sku": "ADI-BOS12-LEM-42",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000026"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000037",
+    "createdAt": "2026-05-30T10:39:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/517ccfc0-b485-4f56-975e-0fbe9dc0fe1a.avif",
+    "sku": "PUM-SUEDE-BW-38",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000027"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000038",
+    "createdAt": "2026-05-30T10:39:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/517ccfc0-b485-4f56-975e-0fbe9dc0fe1a.avif",
+    "sku": "PUM-SUEDE-BW-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000027"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000039",
+    "createdAt": "2026-05-30T10:39:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/517ccfc0-b485-4f56-975e-0fbe9dc0fe1a.avif",
+    "sku": "PUM-SUEDE-BW-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000027"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000003a",
+    "createdAt": "2026-05-30T10:40:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/56531ddb-e44c-4f99-b584-89d08d2e596d.avif",
+    "sku": "PUM-RSX-WB-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000028"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000003b",
+    "createdAt": "2026-05-30T10:40:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/56531ddb-e44c-4f99-b584-89d08d2e596d.avif",
+    "sku": "PUM-RSX-WB-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000028"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000003c",
+    "createdAt": "2026-05-30T10:40:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Black",
+    "imageUrl": "/uploads/products/56531ddb-e44c-4f99-b584-89d08d2e596d.avif",
+    "sku": "PUM-RSX-WB-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000028"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000003d",
+    "createdAt": "2026-05-30T10:41:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Fireglow/Sun Stream",
+    "imageUrl": "/uploads/products/64f0ecfd-3990-449c-a28b-a4f864e9ecd1.avif",
+    "sku": "PUM-DN3-FIR-40",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000029"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000003e",
+    "createdAt": "2026-05-30T10:41:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Fireglow/Sun Stream",
+    "imageUrl": "/uploads/products/64f0ecfd-3990-449c-a28b-a4f864e9ecd1.avif",
+    "sku": "PUM-DN3-FIR-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000029"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000003f",
+    "createdAt": "2026-05-30T10:41:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Fireglow/Sun Stream",
+    "imageUrl": "/uploads/products/64f0ecfd-3990-449c-a28b-a4f864e9ecd1.avif",
+    "sku": "PUM-DN3-FIR-42",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000029"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000040",
+    "createdAt": "2026-05-30T10:42:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Green",
+    "imageUrl": "/uploads/products/6d67050c-ee01-4b7f-a24b-50015b9c745a.avif",
+    "sku": "PUM-PAL-WGR-38",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000041",
+    "createdAt": "2026-05-30T10:42:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Green",
+    "imageUrl": "/uploads/products/6d67050c-ee01-4b7f-a24b-50015b9c745a.avif",
+    "sku": "PUM-PAL-WGR-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000042",
+    "createdAt": "2026-05-30T10:42:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Green",
+    "imageUrl": "/uploads/products/6d67050c-ee01-4b7f-a24b-50015b9c745a.avif",
+    "sku": "PUM-PAL-WGR-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000043",
+    "createdAt": "2026-05-30T10:43:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Grey/White",
+    "imageUrl": "/uploads/products/75df3559-fb7a-4af3-a14b-2f10bf3dd2ad.avif",
+    "sku": "NB-574-GRY-38",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000044",
+    "createdAt": "2026-05-30T10:43:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Grey/White",
+    "imageUrl": "/uploads/products/75df3559-fb7a-4af3-a14b-2f10bf3dd2ad.avif",
+    "sku": "NB-574-GRY-39",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000045",
+    "createdAt": "2026-05-30T10:43:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Grey/White",
+    "imageUrl": "/uploads/products/75df3559-fb7a-4af3-a14b-2f10bf3dd2ad.avif",
+    "sku": "NB-574-GRY-40",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000046",
+    "createdAt": "2026-05-30T10:44:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Moonbeam/Black",
+    "imageUrl": "/uploads/products/7df4c880-07d2-4a49-b9fa-be29e0d22644.avif",
+    "sku": "NB-327-MBB-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000047",
+    "createdAt": "2026-05-30T10:44:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Moonbeam/Black",
+    "imageUrl": "/uploads/products/7df4c880-07d2-4a49-b9fa-be29e0d22644.avif",
+    "sku": "NB-327-MBB-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000048",
+    "createdAt": "2026-05-30T10:44:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Moonbeam/Black",
+    "imageUrl": "/uploads/products/7df4c880-07d2-4a49-b9fa-be29e0d22644.avif",
+    "sku": "NB-327-MBB-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000049",
+    "createdAt": "2026-05-30T10:45:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/8810d442-82ee-473c-8287-ec2e590344ee.avif",
+    "sku": "NB-1080V13-BLK-40",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002d"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000004a",
+    "createdAt": "2026-05-30T10:45:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/8810d442-82ee-473c-8287-ec2e590344ee.avif",
+    "sku": "NB-1080V13-BLK-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002d"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000004b",
+    "createdAt": "2026-05-30T10:45:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/8810d442-82ee-473c-8287-ec2e590344ee.avif",
+    "sku": "NB-1080V13-BLK-42",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002d"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000004c",
+    "createdAt": "2026-05-30T10:46:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Silver Metallic",
+    "imageUrl": "/uploads/products/95d4265d-4201-440d-882d-c7087db72f17.avif",
+    "sku": "NB-1906R-SIL-39",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002e"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000004d",
+    "createdAt": "2026-05-30T10:46:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Silver Metallic",
+    "imageUrl": "/uploads/products/95d4265d-4201-440d-882d-c7087db72f17.avif",
+    "sku": "NB-1906R-SIL-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002e"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000004e",
+    "createdAt": "2026-05-30T10:46:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Silver Metallic",
+    "imageUrl": "/uploads/products/95d4265d-4201-440d-882d-c7087db72f17.avif",
+    "sku": "NB-1906R-SIL-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002e"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000004f",
+    "createdAt": "2026-05-30T10:47:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Navy",
+    "imageUrl": "/uploads/products/9abd395b-16dc-4f53-9ba5-681b7ad518bf.avif",
+    "sku": "FIL-DIS2-WNV-37",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000050",
+    "createdAt": "2026-05-30T10:47:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Navy",
+    "imageUrl": "/uploads/products/9abd395b-16dc-4f53-9ba5-681b7ad518bf.avif",
+    "sku": "FIL-DIS2-WNV-38",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000051",
+    "createdAt": "2026-05-30T10:47:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Navy",
+    "imageUrl": "/uploads/products/9abd395b-16dc-4f53-9ba5-681b7ad518bf.avif",
+    "sku": "FIL-DIS2-WNV-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000002f"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000052",
+    "createdAt": "2026-05-30T10:48:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Red/Navy",
+    "imageUrl": "/uploads/products/a2186134-b16d-4026-9959-e8b58b2bdae0.avif",
+    "sku": "FIL-RAY2-WRN-38",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000030"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000053",
+    "createdAt": "2026-05-30T10:48:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Red/Navy",
+    "imageUrl": "/uploads/products/a2186134-b16d-4026-9959-e8b58b2bdae0.avif",
+    "sku": "FIL-RAY2-WRN-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000030"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000054",
+    "createdAt": "2026-05-30T10:48:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Red/Navy",
+    "imageUrl": "/uploads/products/a2186134-b16d-4026-9959-e8b58b2bdae0.avif",
+    "sku": "FIL-RAY2-WRN-40",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000030"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000055",
+    "createdAt": "2026-05-30T10:49:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Beige/Black",
+    "imageUrl": "/uploads/products/b1b33e20-64a8-422c-9a0c-903ca03d2437.avif",
+    "sku": "FIL-OAK-BGB-39",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000031"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000056",
+    "createdAt": "2026-05-30T10:49:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Beige/Black",
+    "imageUrl": "/uploads/products/b1b33e20-64a8-422c-9a0c-903ca03d2437.avif",
+    "sku": "FIL-OAK-BGB-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000031"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000057",
+    "createdAt": "2026-05-30T10:49:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Beige/Black",
+    "imageUrl": "/uploads/products/b1b33e20-64a8-422c-9a0c-903ca03d2437.avif",
+    "sku": "FIL-OAK-BGB-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000031"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000058",
+    "createdAt": "2026-05-30T10:50:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Navy/Red",
+    "imageUrl": "/uploads/products/ba2fd656-b8ec-43a6-a8c7-424ae28e5349.avif",
+    "sku": "FIL-MB-WNR-40",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000032"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000059",
+    "createdAt": "2026-05-30T10:50:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Navy/Red",
+    "imageUrl": "/uploads/products/ba2fd656-b8ec-43a6-a8c7-424ae28e5349.avif",
+    "sku": "FIL-MB-WNR-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000032"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000005a",
+    "createdAt": "2026-05-30T10:50:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Navy/Red",
+    "imageUrl": "/uploads/products/ba2fd656-b8ec-43a6-a8c7-424ae28e5349.avif",
+    "sku": "FIL-MB-WNR-42",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000032"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000005b",
+    "createdAt": "2026-05-30T10:51:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/c7b5b3ba-cc87-48d6-9d3b-83b5c6f3ffc6.avif",
+    "sku": "CON-CTAS-BLK-38",
+    "status": "ACTIVE",
+    "stockQuantity": 9,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000033"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000005c",
+    "createdAt": "2026-05-30T10:51:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/c7b5b3ba-cc87-48d6-9d3b-83b5c6f3ffc6.avif",
+    "sku": "CON-CTAS-BLK-39",
+    "status": "ACTIVE",
+    "stockQuantity": 9,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000033"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000005d",
+    "createdAt": "2026-05-30T10:51:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/c7b5b3ba-cc87-48d6-9d3b-83b5c6f3ffc6.avif",
+    "sku": "CON-CTAS-BLK-40",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000033"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000005e",
+    "createdAt": "2026-05-30T10:52:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White/Gum",
+    "imageUrl": "/uploads/products/cd239353-0e30-4c18-a3d4-f2455f02d04c.avif",
+    "sku": "CON-RSH-BWG-38",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000034"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000005f",
+    "createdAt": "2026-05-30T10:52:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White/Gum",
+    "imageUrl": "/uploads/products/cd239353-0e30-4c18-a3d4-f2455f02d04c.avif",
+    "sku": "CON-RSH-BWG-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000034"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000060",
+    "createdAt": "2026-05-30T10:52:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White/Gum",
+    "imageUrl": "/uploads/products/cd239353-0e30-4c18-a3d4-f2455f02d04c.avif",
+    "sku": "CON-RSH-BWG-40",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000034"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000061",
+    "createdAt": "2026-05-30T10:53:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d5daad20-524d-49a4-9cb4-7ba3118d3f0f.avif",
+    "sku": "CON-ONESTAR-BW-39",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000035"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000062",
+    "createdAt": "2026-05-30T10:53:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d5daad20-524d-49a4-9cb4-7ba3118d3f0f.avif",
+    "sku": "CON-ONESTAR-BW-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000035"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000063",
+    "createdAt": "2026-05-30T10:53:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d5daad20-524d-49a4-9cb4-7ba3118d3f0f.avif",
+    "sku": "CON-ONESTAR-BW-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000035"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000064",
+    "createdAt": "2026-05-30T10:54:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d9ad53b2-ada3-4311-a200-ee1fb8ff2045.avif",
+    "sku": "VAN-OS-BW-38",
+    "status": "ACTIVE",
+    "stockQuantity": 9,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000036"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000065",
+    "createdAt": "2026-05-30T10:54:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d9ad53b2-ada3-4311-a200-ee1fb8ff2045.avif",
+    "sku": "VAN-OS-BW-39",
+    "status": "ACTIVE",
+    "stockQuantity": 9,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000036"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000066",
+    "createdAt": "2026-05-30T10:54:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/White",
+    "imageUrl": "/uploads/products/d9ad53b2-ada3-4311-a200-ee1fb8ff2045.avif",
+    "sku": "VAN-OS-BW-40",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000036"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000067",
+    "createdAt": "2026-05-30T10:55:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "True White/Black",
+    "imageUrl": "/uploads/products/e5ed87ab-5db5-43b8-8de3-e2fc31e5948c.avif",
+    "sku": "VAN-SK8-WB-39",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000037"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000068",
+    "createdAt": "2026-05-30T10:55:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "True White/Black",
+    "imageUrl": "/uploads/products/e5ed87ab-5db5-43b8-8de3-e2fc31e5948c.avif",
+    "sku": "VAN-SK8-WB-40",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000037"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000069",
+    "createdAt": "2026-05-30T10:55:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "True White/Black",
+    "imageUrl": "/uploads/products/e5ed87ab-5db5-43b8-8de3-e2fc31e5948c.avif",
+    "sku": "VAN-SK8-WB-41",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000037"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000006a",
+    "createdAt": "2026-05-30T10:56:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Checkerboard",
+    "imageUrl": "/uploads/products/eb3a0c54-0673-4f08-b7ad-7a398ebb5e28.avif",
+    "sku": "VAN-SLIP-CHK-37",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000038"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000006b",
+    "createdAt": "2026-05-30T10:56:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Checkerboard",
+    "imageUrl": "/uploads/products/eb3a0c54-0673-4f08-b7ad-7a398ebb5e28.avif",
+    "sku": "VAN-SLIP-CHK-38",
+    "status": "ACTIVE",
+    "stockQuantity": 8,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000038"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000006c",
+    "createdAt": "2026-05-30T10:56:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Checkerboard",
+    "imageUrl": "/uploads/products/eb3a0c54-0673-4f08-b7ad-7a398ebb5e28.avif",
+    "sku": "VAN-SLIP-CHK-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000038"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000006d",
+    "createdAt": "2026-05-30T10:57:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/Glow Yellow",
+    "imageUrl": "/uploads/products/efd7560a-e9f6-41df-a29a-999276613db3.avif",
+    "sku": "ASI-KAY30-BGY-40",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000039"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000006e",
+    "createdAt": "2026-05-30T10:57:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Black/Glow Yellow",
+    "imageUrl": "/uploads/products/efd7560a-e9f6-41df-a29a-999276613db3.avif",
+    "sku": "ASI-KAY30-BGY-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000039"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c91000000006f",
+    "createdAt": "2026-05-30T10:57:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Black/Glow Yellow",
+    "imageUrl": "/uploads/products/efd7560a-e9f6-41df-a29a-999276613db3.avif",
+    "sku": "ASI-KAY30-BGY-42",
+    "status": "ACTIVE",
+    "stockQuantity": 4,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c900000000039"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000008"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000070",
+    "createdAt": "2026-05-30T10:58:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Pure Silver",
+    "imageUrl": "/uploads/products/f9fbb04d-ad08-4e54-8ede-8c55a37c44fa.avif",
+    "sku": "ASI-NIM26-WPS-39",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000071",
+    "createdAt": "2026-05-30T10:58:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Pure Silver",
+    "imageUrl": "/uploads/products/f9fbb04d-ad08-4e54-8ede-8c55a37c44fa.avif",
+    "sku": "ASI-NIM26-WPS-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000072",
+    "createdAt": "2026-05-30T10:58:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Pure Silver",
+    "imageUrl": "/uploads/products/f9fbb04d-ad08-4e54-8ede-8c55a37c44fa.avif",
+    "sku": "ASI-NIM26-WPS-41",
+    "status": "ACTIVE",
+    "stockQuantity": 5,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003a"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000007"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000073",
+    "createdAt": "2026-05-30T10:59:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Chalk/Green",
+    "imageUrl": "/uploads/products/042e274d-db01-49da-b4bf-f4b8adb4978c.avif",
+    "sku": "REE-CLUBC-CGR-38",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000074",
+    "createdAt": "2026-05-30T10:59:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "Chalk/Green",
+    "imageUrl": "/uploads/products/042e274d-db01-49da-b4bf-f4b8adb4978c.avif",
+    "sku": "REE-CLUBC-CGR-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000075",
+    "createdAt": "2026-05-30T10:59:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "Chalk/Green",
+    "imageUrl": "/uploads/products/042e274d-db01-49da-b4bf-f4b8adb4978c.avif",
+    "sku": "REE-CLUBC-CGR-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003b"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000076",
+    "createdAt": "2026-05-30T10:60:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Gum",
+    "imageUrl": "/uploads/products/123d8474-232c-45ea-a98b-20349569604e.avif",
+    "sku": "REE-CL-WG-38",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000077",
+    "createdAt": "2026-05-30T10:60:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 0,
+    "color": "White/Gum",
+    "imageUrl": "/uploads/products/123d8474-232c-45ea-a98b-20349569604e.avif",
+    "sku": "REE-CL-WG-39",
+    "status": "ACTIVE",
+    "stockQuantity": 7,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c910000000078",
+    "createdAt": "2026-05-30T10:60:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "additionalPrice": 100000,
+    "color": "White/Gum",
+    "imageUrl": "/uploads/products/123d8474-232c-45ea-a98b-20349569604e.avif",
+    "sku": "REE-CL-WG-40",
+    "status": "ACTIVE",
+    "stockQuantity": 6,
+    "product": {
+      "$ref": "products",
+      "$id": "60b9b3e1f0e4b85c1c90000000003c"
+    },
+    "size": {
+      "$ref": "sizes",
+      "$id": "60b9b3e1f0e4b85c1c8e00000006"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9700000001",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000003"
+    },
+    "workDate": "2026-05-30",
+    "plannedStartAt": "2026-05-30T18:00:00.000Z",
+    "plannedEndAt": "2026-05-30T22:00:00.000Z",
+    "status": "OPEN",
+    "note": "Cần tuyển thêm 1 nhân sự trực tối thứ 7"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9700000002",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000002"
+    },
+    "workDate": "2026-05-31",
+    "plannedStartAt": "2026-05-31T13:30:00.000Z",
+    "plannedEndAt": "2026-05-31T17:30:00.000Z",
+    "status": "OPEN",
+    "note": "Cần tuyển thêm nhân sự trực chiều Chủ Nhật"
+  }
+]

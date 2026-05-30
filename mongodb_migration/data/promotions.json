@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9200000001",
+    "createdAt": "2026-05-22T08:15:00.419Z",
+    "updatedAt": "2026-05-22T08:15:00.419Z",
+    "code": "GLOBAL10",
+    "description": "Ch??ng tr?nh gi?m gi? t? ??ng 10% cho t?t c? s?n ph?m tr?n h? th?ng",
+    "discountValue": 10,
+    "endAt": "2027-05-22T08:15:00.386Z",
+    "maxDiscountValue": null,
+    "name": "Giảm 10% Toàn Bộ Sản Phẩm",
+    "startAt": "2026-05-21T08:15:00.386Z",
+    "status": "ACTIVE",
+    "type": "PERCENTAGE",
+    "products": [
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000001"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000002"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000003"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000004"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000005"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000006"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000007"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000008"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000009"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000000a"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000000b"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000000c"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000000d"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000000e"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000000f"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000010"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000011"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000012"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000013"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000014"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000015"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000016"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000017"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000018"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c9000000019"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000001a"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000001b"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000001c"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000001d"
+      },
+      {
+        "$ref": "products",
+        "$id": "60b9b3e1f0e4b85c1c900000001e"
+      }
+    ],
+    "variants": []
+  }
+]

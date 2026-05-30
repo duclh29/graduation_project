@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9800000001",
+    "createdAt": "2026-05-29T10:00:00.000Z",
+    "updatedAt": "2026-05-29T10:05:00.000Z",
+    "status": "ACTIVE",
+    "totalPrice": 3200000,
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000001"
+    }
+  }
+]

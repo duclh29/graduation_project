@@ -1,0 +1,1262 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000001",
+    "createdAt": "2026-05-22T08:15:00.076Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1050000,
+    "description": "Giày FILA chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/01120ec4-498e-4bb8-86cc-12df763a5779.avif,/uploads/products/0120b05e-60d6-4dab-beb5-cd02e4a11a0c.avif,/uploads/products/042e274d-db01-49da-b4bf-f4b8adb4978c.avif,/uploads/products/0aad4706-034f-4293-ad0f-32449a2c3e0a.avif,/uploads/products/0aff2bd1-92a5-4599-96b6-dde48cf92340.avif",
+    "name": "FILA Elite Series 1",
+    "sizes": "39,40,41",
+    "slug": "elite-series-1-1779437700073",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000002",
+    "createdAt": "2026-05-22T08:15:00.085Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1100000,
+    "description": "Giày Jeep chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/0c8a45c7-c0a7-4ce9-9db2-d7936c22bdfe.avif,/uploads/products/0f5c7a67-3bba-4762-85ce-c63867cedbd4.avif,/uploads/products/123d8474-232c-45ea-a98b-20349569604e.avif,/uploads/products/13c21218-1994-47e5-80d9-c2e85faef8e7.avif,/uploads/products/1414b843-79f2-45ea-928a-be1706528801.avif",
+    "name": "Jeep Elite Series 2",
+    "sizes": "39,40,41",
+    "slug": "elite-series-2-1779437700085",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000007"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000003",
+    "createdAt": "2026-05-22T08:15:00.097Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1150000,
+    "description": "Giày MLB chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/157c1632-d39c-4738-a20f-4cf57f6fd5f9.avif,/uploads/products/18433f7e-be03-43d7-8c54-9b40113a0477.avif,/uploads/products/18df273a-dd5d-4bb0-8170-02aa6e31b4a2.avif,/uploads/products/192e5a45-ae7f-4204-84ce-90600cd71ac0.avif,/uploads/products/1dae82eb-4290-4a27-b414-ff52b6f7fe81.avif",
+    "name": "MLB Elite Series 3",
+    "sizes": "39,40,41",
+    "slug": "elite-series-3-1779437700095",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000003"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000004",
+    "createdAt": "2026-05-22T08:15:00.107Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1200000,
+    "description": "Giày New Balance chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/1e48630f-420b-458b-841b-d3723d56fc4e.avif,/uploads/products/20388e3d-122a-4c7b-9742-f7f308447052.avif,/uploads/products/22a0e68e-6ef2-4831-a7ec-7d6409c17ee7.avif,/uploads/products/2666cb10-51e4-4a28-9a17-06d3d1890e23.avif,/uploads/products/2834eb05-4ff5-4cf5-9fd9-68b596328525.avif",
+    "name": "New Balance Elite Series 4",
+    "sizes": "39,40,41",
+    "slug": "elite-series-4-1779437700106",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000005",
+    "createdAt": "2026-05-22T08:15:00.118Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1250000,
+    "description": "Giày Nike chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/2cfcbb5f-366b-41b0-8bfa-b6a33e4bc756.avif,/uploads/products/2d104c14-b886-44d0-b665-d72e857ab6b3.avif,/uploads/products/2e83de0a-5b87-43d0-8b91-b4092702003e.avif,/uploads/products/2ededc39-84e6-4773-9eb3-3f6e8652de93.png,/uploads/products/2f3e7a30-0fe4-4885-b356-9dd1e0fc2492.avif",
+    "name": "Nike Elite Series 5",
+    "sizes": "39,40,41",
+    "slug": "elite-series-5-1779437700117",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000006",
+    "createdAt": "2026-05-22T08:15:00.130Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1300000,
+    "description": "Giày Puma chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/34362059-cca5-458f-8dbe-4e7ac72d0a61.avif,/uploads/products/346bdf3d-babd-4b49-9b59-9d385938a7b4.avif,/uploads/products/3545e87d-92b4-473e-a837-7137c85ef08e.avif,/uploads/products/36247329-2c0c-430f-8b75-5fc17da95bc7.avif,/uploads/products/38513a83-5701-4f2a-a76b-8ad1a57e7ee8.avif",
+    "name": "Puma Elite Series 6",
+    "sizes": "39,40,41",
+    "slug": "elite-series-6-1779437700130",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000007",
+    "createdAt": "2026-05-22T08:15:00.140Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1350000,
+    "description": "Giày Adidas chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/3e7a52a6-3814-4a73-95bd-aa00e920386b.avif,/uploads/products/3ee3a622-5db1-493a-86e1-9f958582b7fd.avif,/uploads/products/40d6d725-1898-4c89-acf5-16a8fc6316e2.avif,/uploads/products/41759fb4-5dd2-48e2-baf9-239ca1150b4f.avif,/uploads/products/42bbb3bb-e6d2-454e-bea6-5a06fa48a48b.avif",
+    "name": "Adidas Elite Series 7",
+    "sizes": "39,40,41",
+    "slug": "elite-series-7-1779437700139",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000008",
+    "createdAt": "2026-05-22T08:15:00.154Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1400000,
+    "description": "Giày FILA chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/4417bb9e-c360-410b-8800-9bce5e5d0d2d.avif,/uploads/products/4455ecea-835e-4ac3-85c9-7a6d07d83588.avif,/uploads/products/4693469c-e408-4b2c-b746-8137d3f51741.avif,/uploads/products/46a7fb12-8718-431f-b3ea-ff5f1cf72461.avif,/uploads/products/48e2a446-35ee-4faa-87d2-0913fb0e5e1e.avif",
+    "name": "FILA Elite Series 8",
+    "sizes": "39,40,41",
+    "slug": "elite-series-8-1779437700153",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000009",
+    "createdAt": "2026-05-22T08:15:00.164Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1450000,
+    "description": "Giày Jeep chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/494375da-2c23-4bef-8d50-12f24dd64fc0.avif,/uploads/products/4abd9830-8b65-4e0b-b764-d4f0045cb121.avif,/uploads/products/4aed2d92-26c8-4a5c-ad9a-b8a6deac6bf5.avif,/uploads/products/4bc9d016-20e1-4e65-a6ab-603269bb65f5.avif,/uploads/products/4c24016d-fa84-4d1a-9e30-3c695f8fad63.avif",
+    "name": "Jeep Elite Series 9",
+    "sizes": "39,40,41",
+    "slug": "elite-series-9-1779437700164",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000007"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000a",
+    "createdAt": "2026-05-22T08:15:00.174Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1500000,
+    "description": "Giày MLB chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/4f37aa2f-8fac-4c2e-9300-4a8f85c127c2.avif,/uploads/products/517ccfc0-b485-4f56-975e-0fbe9dc0fe1a.avif,/uploads/products/520370bb-ace0-408e-8102-77a554f40c02.avif,/uploads/products/52a892b0-52ba-4de9-9295-27132c1f8db4.avif,/uploads/products/549ac0c3-c05b-4703-9fe1-aea662994c86.avif",
+    "name": "MLB Elite Series 10",
+    "sizes": "39,40,41",
+    "slug": "elite-series-10-1779437700173",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000003"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000b",
+    "createdAt": "2026-05-22T08:15:00.184Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1550000,
+    "description": "Giày New Balance chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/54b4a464-99be-4b85-b97e-917bd643f731.avif,/uploads/products/56531ddb-e44c-4f99-b584-89d08d2e596d.avif,/uploads/products/571d9022-693c-43c0-bb6d-0206207cf3ac.avif,/uploads/products/599adaa4-9a83-4f0d-a7b1-ad4a47070f52.avif,/uploads/products/5f46ef06-ad21-408f-8a96-53853507a6f8.png",
+    "name": "New Balance Elite Series 11",
+    "sizes": "39,40,41",
+    "slug": "elite-series-11-1779437700183",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000c",
+    "createdAt": "2026-05-22T08:15:00.194Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1600000,
+    "description": "Giày Nike chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/62f4ca04-c5d1-4292-9390-a10f91c4ff73.avif,/uploads/products/64f0ecfd-3990-449c-a28b-a4f864e9ecd1.avif,/uploads/products/667cbd86-fbad-4bd2-b104-e0c8aff7e0ae.avif,/uploads/products/6953741c-0da6-470d-ad25-3c3f2630d0cd.avif,/uploads/products/696de120-bba9-4690-aebb-2fa1d8e7f7bc.avif",
+    "name": "Nike Elite Series 12",
+    "sizes": "39,40,41",
+    "slug": "elite-series-12-1779437700194",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000d",
+    "createdAt": "2026-05-22T08:15:00.201Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1650000,
+    "description": "Giày Puma chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/69a56bca-3672-4078-ba06-58feb3d727dd.avif,/uploads/products/6d67050c-ee01-4b7f-a24b-50015b9c745a.avif,/uploads/products/6e4ead47-ee9c-4e40-8c61-a649242474b8.avif,/uploads/products/6f19161c-2c9a-4641-9c98-fedcd90bdd8b.avif,/uploads/products/70453356-2f91-4258-8731-69529542b299.avif",
+    "name": "Puma Elite Series 13",
+    "sizes": "39,40,41",
+    "slug": "elite-series-13-1779437700201",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000e",
+    "createdAt": "2026-05-22T08:15:00.212Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1700000,
+    "description": "Giày Adidas chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/70c5c6e4-1767-410b-8fea-07def18ac506.avif,/uploads/products/75df3559-fb7a-4af3-a14b-2f10bf3dd2ad.avif,/uploads/products/7655798d-0a53-4070-b1b8-d7d2d61bac76.avif,/uploads/products/7721784d-2e65-4f7d-85da-f691cadb6bab.avif,/uploads/products/77230131-f9cc-4fd8-9ff8-cb4aefad10f5.avif",
+    "name": "Adidas Elite Series 14",
+    "sizes": "39,40,41",
+    "slug": "elite-series-14-1779437700211",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000f",
+    "createdAt": "2026-05-22T08:15:00.219Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1750000,
+    "description": "Giày FILA chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/7ded80a4-fce0-4e08-ba3e-76db2d7f0c66.avif,/uploads/products/7df4c880-07d2-4a49-b9fa-be29e0d22644.avif,/uploads/products/80620978-4f19-40f8-9b28-37689be88670.avif,/uploads/products/80da8d4d-5711-4604-982f-451f6a1a7f9b.avif,/uploads/products/834dc71b-bace-4dc0-b3dd-efadefa85e83.avif",
+    "name": "FILA Elite Series 15",
+    "sizes": "39,40,41",
+    "slug": "elite-series-15-1779437700219",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000010",
+    "createdAt": "2026-05-22T08:15:00.228Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1800000,
+    "description": "Giày Jeep chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/862233c8-0f9f-4cba-83c1-170a2772434c.avif,/uploads/products/8810d442-82ee-473c-8287-ec2e590344ee.avif,/uploads/products/8853fa50-d83a-4941-81b4-1d071e012931.avif,/uploads/products/904deb9c-517d-4a76-8f05-2fb000ba0c6b.avif,/uploads/products/9226933a-6ca5-4761-9f1b-b41f8083b9e0.avif",
+    "name": "Jeep Elite Series 16",
+    "sizes": "39,40,41",
+    "slug": "elite-series-16-1779437700228",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000007"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000011",
+    "createdAt": "2026-05-22T08:15:00.234Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1850000,
+    "description": "Giày MLB chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/958887dc-45bd-4d14-94e1-2f8df2c70bf2.avif,/uploads/products/95d4265d-4201-440d-882d-c7087db72f17.avif,/uploads/products/9760c9cc-8c0d-42f9-ab67-1a4b68a75b15.avif,/uploads/products/985c13e4-3ae3-4608-825d-aae6b2a121fe.avif,/uploads/products/98aa66f7-a59f-4075-af61-c1b631d77e6d.avif",
+    "name": "MLB Elite Series 17",
+    "sizes": "39,40,41",
+    "slug": "elite-series-17-1779437700233",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000003"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000012",
+    "createdAt": "2026-05-22T08:15:00.243Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1900000,
+    "description": "Giày New Balance chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/9a6a7fe8-bacd-4ec9-8b01-721d4f637406.avif,/uploads/products/9abd395b-16dc-4f53-9ba5-681b7ad518bf.avif,/uploads/products/9bebfa01-af12-4133-9cc7-cd35f879cedc.avif,/uploads/products/9c22d543-141f-45f6-8880-67960883ac3f.avif,/uploads/products/9d2c71b6-7c91-4f92-96a9-945362dacdc3.avif",
+    "name": "New Balance Elite Series 18",
+    "sizes": "39,40,41",
+    "slug": "elite-series-18-1779437700243",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000013",
+    "createdAt": "2026-05-22T08:15:00.251Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1950000,
+    "description": "Giày Nike chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/9d5bffbe-83b1-4126-a9de-8d5373c3ec8a.avif,/uploads/products/a2186134-b16d-4026-9959-e8b58b2bdae0.avif,/uploads/products/a37f6f2d-abc8-4ef9-b714-e5206d19c823.avif,/uploads/products/ad64114f-87ac-41b6-a1cb-ec475b0ea387.avif,/uploads/products/adbf32f5-ba84-4cc4-ba71-99daeff782be.avif",
+    "name": "Nike Elite Series 19",
+    "sizes": "39,40,41",
+    "slug": "elite-series-19-1779437700251",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000014",
+    "createdAt": "2026-05-22T08:15:00.263Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2000000,
+    "description": "Giày Puma chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/b0d70a7c-71a1-4958-8b3e-25ccd8a145c9.avif,/uploads/products/b1b33e20-64a8-422c-9a0c-903ca03d2437.avif,/uploads/products/b3deb976-5b40-4dd0-94b2-f8c170c0346e.avif,/uploads/products/b7b1b648-5ed6-44e1-bf63-7edac4af3976.avif,/uploads/products/b8489292-c298-42ac-b939-813e34e12ce0.avif",
+    "name": "Puma Elite Series 20",
+    "sizes": "39,40,41",
+    "slug": "elite-series-20-1779437700262",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000015",
+    "createdAt": "2026-05-22T08:15:00.275Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2050000,
+    "description": "Giày Adidas chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/b95e5372-fcd9-4819-b1dd-672776fa94ac.avif,/uploads/products/ba2fd656-b8ec-43a6-a8c7-424ae28e5349.avif,/uploads/products/c2709275-857f-42df-8fca-67100d72d41a.avif,/uploads/products/c35cf784-9c99-44be-a5f6-a48324eb84f2.avif,/uploads/products/c400930b-f446-4d16-bb0d-b557d70fb75f.png",
+    "name": "Adidas Elite Series 21",
+    "sizes": "39,40,41",
+    "slug": "elite-series-21-1779437700272",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000016",
+    "createdAt": "2026-05-22T08:15:00.286Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2100000,
+    "description": "Giày FILA chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/c47ee490-72f1-442e-952e-3e8aa79a118b.avif,/uploads/products/c7b5b3ba-cc87-48d6-9d3b-83b5c6f3ffc6.avif,/uploads/products/c8430054-cf04-4ebc-989c-bb90117c4182.avif,/uploads/products/cb6d396a-7532-4aaf-af7b-99e9434e83b9.avif,/uploads/products/cc5cc881-778a-4053-bbd0-6292dc656834.avif",
+    "name": "FILA Elite Series 22",
+    "sizes": "39,40,41",
+    "slug": "elite-series-22-1779437700285",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000017",
+    "createdAt": "2026-05-22T08:15:00.298Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2150000,
+    "description": "Giày Jeep chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/cccfad75-489b-4fc0-8b3b-c285ab05519c.png,/uploads/products/cd239353-0e30-4c18-a3d4-f2455f02d04c.avif,/uploads/products/cffdbd54-0dc6-475a-9015-7249975e0dd9.avif,/uploads/products/d02bdab2-7e4c-4474-9eb3-ab74c2679cf6.avif,/uploads/products/d07636e7-06c4-463c-8528-69d264389484.avif",
+    "name": "Jeep Elite Series 23",
+    "sizes": "39,40,41",
+    "slug": "elite-series-23-1779437700297",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000007"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000018",
+    "createdAt": "2026-05-22T08:15:00.307Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2200000,
+    "description": "Giày MLB chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/d5171f49-36ba-4c73-b026-49c9696273a6.avif,/uploads/products/d5daad20-524d-49a4-9cb4-7ba3118d3f0f.avif,/uploads/products/d673712c-abbe-4603-ad41-c4d1f5bf9806.avif,/uploads/products/d7fcbd28-af72-4525-b336-e0e8fe104dc4.avif,/uploads/products/d994d18a-90e9-4390-9d92-eeb7dba1f027.avif",
+    "name": "MLB Elite Series 24",
+    "sizes": "39,40,41",
+    "slug": "elite-series-24-1779437700306",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000003"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9000000019",
+    "createdAt": "2026-05-22T08:15:00.317Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2250000,
+    "description": "Giày New Balance chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/d9a751e1-a97c-4ead-8849-1def739db166.avif,/uploads/products/d9ad53b2-ada3-4311-a200-ee1fb8ff2045.avif,/uploads/products/e080d7b1-8602-4b8e-84d3-b9ff7f13cd30.avif,/uploads/products/e1adb13b-5e28-415b-80aa-690124ff1c5c.avif,/uploads/products/e4351e5d-4606-43ae-a898-ad3f19135612.avif",
+    "name": "New Balance Elite Series 25",
+    "sizes": "39,40,41",
+    "slug": "elite-series-25-1779437700317",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000001a",
+    "createdAt": "2026-05-22T08:15:00.324Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2300000,
+    "description": "Giày Nike chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/e45d7333-b363-45be-9a2e-2b94c6ccf5be.avif,/uploads/products/e5ed87ab-5db5-43b8-8de3-e2fc31e5948c.avif,/uploads/products/e7c0aa47-9416-452e-8f02-2c9d4fe7754c.avif,/uploads/products/e85951d0-ec97-450c-877d-9d9504a7b623.avif,/uploads/products/e9982713-707f-4900-a2df-6794cd53d3aa.avif",
+    "name": "Nike Elite Series 26",
+    "sizes": "39,40,41",
+    "slug": "elite-series-26-1779437700323",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000001b",
+    "createdAt": "2026-05-22T08:15:00.332Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2350000,
+    "description": "Giày Puma chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/eae3909e-613c-4aad-ade9-03dd598d75fe.avif,/uploads/products/eb3a0c54-0673-4f08-b7ad-7a398ebb5e28.avif,/uploads/products/ebc85468-d61e-4568-9297-beb6aa3c4213.avif,/uploads/products/ebf94ee3-4563-4301-b818-15999e383c1a.avif,/uploads/products/ed7f1503-5b63-42f5-b9f9-e77c2d061a5e.avif",
+    "name": "Puma Elite Series 27",
+    "sizes": "39,40,41",
+    "slug": "elite-series-27-1779437700331",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000001c",
+    "createdAt": "2026-05-22T08:15:00.341Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2400000,
+    "description": "Giày Adidas chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/ef559659-75f9-4c37-962c-d4d64d693bf4.avif,/uploads/products/efd7560a-e9f6-41df-a29a-999276613db3.avif,/uploads/products/f63a9529-f5c5-45f8-8fce-564a7b0509da.avif,/uploads/products/f8c10836-db9c-4aa3-a4e1-80acbb76254f.avif,/uploads/products/f8e6b469-7add-4664-898f-1da0f493c2cc.avif",
+    "name": "Adidas Elite Series 28",
+    "sizes": "39,40,41",
+    "slug": "elite-series-28-1779437700340",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000001d",
+    "createdAt": "2026-05-22T08:15:00.349Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2450000,
+    "description": "Giày FILA chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/f9652f22-bd14-46f7-9021-4a59922fba21.avif,/uploads/products/f9fbb04d-ad08-4e54-8ede-8c55a37c44fa.avif,/uploads/products/fc38fec5-21c9-4750-8bd6-cdafc025bfb9.avif,/uploads/products/ff21f4a8-c879-46cf-8080-d1beb739fd75.avif,/uploads/products/01120ec4-498e-4bb8-86cc-12df763a5779.avif",
+    "name": "FILA Elite Series 29",
+    "sizes": "39,40,41",
+    "slug": "elite-series-29-1779437700348",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000001e",
+    "createdAt": "2026-05-22T08:15:00.359Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2500000,
+    "description": "Giày Jeep chính hãng chất lượng cao. Thiết kế hiện đại, trẻ trung, phù hợp với mọi hoạt động thể thao và đi chơi.",
+    "imageUrl": "/uploads/products/0120b05e-60d6-4dab-beb5-cd02e4a11a0c.avif,/uploads/products/042e274d-db01-49da-b4bf-f4b8adb4978c.avif,/uploads/products/0aad4706-034f-4293-ad0f-32449a2c3e0a.avif,/uploads/products/0aff2bd1-92a5-4599-96b6-dde48cf92340.avif,/uploads/products/0c8a45c7-c0a7-4ce9-9db2-d7936c22bdfe.avif",
+    "name": "Jeep Elite Series 30",
+    "sizes": "39,40,41",
+    "slug": "elite-series-30-1779437700358",
+    "status": "ACTIVE",
+    "totalQuantity": 30,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000007"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000001f",
+    "createdAt": "2026-05-30T10:31:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 3600000,
+    "description": "Giay chay bo Nike Air Zoom Pegasus 41 voi dem ReactX va Zoom Air, phu hop tap luyen hang ngay.",
+    "imageUrl": "/uploads/products/0f5c7a67-3bba-4762-85ce-c63867cedbd4.avif,/uploads/products/123d8474-232c-45ea-a98b-20349569604e.avif,/uploads/products/13c21218-1994-47e5-80d9-c2e85faef8e7.avif,/uploads/products/1414b843-79f2-45ea-928a-be1706528801.avif,/uploads/products/157c1632-d39c-4738-a20f-4cf57f6fd5f9.avif",
+    "name": "Nike Air Zoom Pegasus 41 White Black",
+    "sizes": "39,40,41",
+    "slug": "nike-air-zoom-pegasus-41-white-black-1779437700031",
+    "status": "ACTIVE",
+    "totalQuantity": 21,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000020",
+    "createdAt": "2026-05-30T10:32:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 3100000,
+    "description": "Nike Dunk Low Retro White Black Panda voi phoi mau trang den de phoi do, dang sneaker co thap.",
+    "imageUrl": "/uploads/products/18433f7e-be03-43d7-8c54-9b40113a0477.avif,/uploads/products/18df273a-dd5d-4bb0-8170-02aa6e31b4a2.avif,/uploads/products/192e5a45-ae7f-4204-84ce-90600cd71ac0.avif,/uploads/products/1dae82eb-4290-4a27-b414-ff52b6f7fe81.avif,/uploads/products/1e48630f-420b-458b-841b-d3723d56fc4e.avif",
+    "name": "Nike Dunk Low Retro White Black Panda",
+    "sizes": "38,39,40",
+    "slug": "nike-dunk-low-retro-white-black-panda-1779437700032",
+    "status": "ACTIVE",
+    "totalQuantity": 19,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000021",
+    "createdAt": "2026-05-30T10:33:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4200000,
+    "description": "Air Jordan 1 Low Bred Toe mang phong cach bong ro co dien voi tong den do trang noi bat.",
+    "imageUrl": "/uploads/products/20388e3d-122a-4c7b-9742-f7f308447052.avif,/uploads/products/22a0e68e-6ef2-4831-a7ec-7d6409c17ee7.avif,/uploads/products/2666cb10-51e4-4a28-9a17-06d3d1890e23.avif,/uploads/products/2834eb05-4ff5-4cf5-9fd9-68b596328525.avif,/uploads/products/2cfcbb5f-366b-41b0-8bfa-b6a33e4bc756.avif",
+    "name": "Nike Air Jordan 1 Low Bred Toe",
+    "sizes": "40,41,42",
+    "slug": "nike-air-jordan-1-low-bred-toe-1779437700033",
+    "status": "ACTIVE",
+    "totalQuantity": 14,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000022",
+    "createdAt": "2026-05-30T10:34:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 3900000,
+    "description": "Nike ReactX Infinity Run 4 ho tro chay duong dai voi dem em va than giay thong thoang.",
+    "imageUrl": "/uploads/products/2d104c14-b886-44d0-b665-d72e857ab6b3.avif,/uploads/products/2e83de0a-5b87-43d0-8b91-b4092702003e.avif,/uploads/products/2ededc39-84e6-4773-9eb3-3f6e8652de93.png,/uploads/products/2f3e7a30-0fe4-4885-b356-9dd1e0fc2492.avif,/uploads/products/34362059-cca5-458f-8dbe-4e7ac72d0a61.avif",
+    "name": "Nike ReactX Infinity Run 4 Black White",
+    "sizes": "39,40,41",
+    "slug": "nike-reactx-infinity-run-4-black-white-1779437700034",
+    "status": "ACTIVE",
+    "totalQuantity": 17,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000001"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000023",
+    "createdAt": "2026-05-30T10:35:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4500000,
+    "description": "Adidas Ultraboost 5 Core Black co dem Boost dan hoi, phu hop chay bo va di hang ngay.",
+    "imageUrl": "/uploads/products/346bdf3d-babd-4b49-9b59-9d385938a7b4.avif,/uploads/products/3545e87d-92b4-473e-a837-7137c85ef08e.avif,/uploads/products/36247329-2c0c-430f-8b75-5fc17da95bc7.avif,/uploads/products/38513a83-5701-4f2a-a76b-8ad1a57e7ee8.avif,/uploads/products/3e7a52a6-3814-4a73-95bd-aa00e920386b.avif",
+    "name": "Adidas Ultraboost 5 Core Black",
+    "sizes": "39,40,41",
+    "slug": "adidas-ultraboost-5-core-black-1779437700035",
+    "status": "ACTIVE",
+    "totalQuantity": 16,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000024",
+    "createdAt": "2026-05-30T10:36:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2800000,
+    "description": "Adidas Campus 00s Grey White voi than suede day dan va phong cach streetwear.",
+    "imageUrl": "/uploads/products/3ee3a622-5db1-493a-86e1-9f958582b7fd.avif,/uploads/products/40d6d725-1898-4c89-acf5-16a8fc6316e2.avif,/uploads/products/41759fb4-5dd2-48e2-baf9-239ca1150b4f.avif,/uploads/products/42bbb3bb-e6d2-454e-bea6-5a06fa48a48b.avif,/uploads/products/4417bb9e-c360-410b-8800-9bce5e5d0d2d.avif",
+    "name": "Adidas Campus 00s Grey White",
+    "sizes": "38,39,40",
+    "slug": "adidas-campus-00s-grey-white-1779437700036",
+    "status": "ACTIVE",
+    "totalQuantity": 20,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000025",
+    "createdAt": "2026-05-30T10:37:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2400000,
+    "description": "Adidas Stan Smith Cloud White Green la mau sneaker toi gian voi upper da tong trang.",
+    "imageUrl": "/uploads/products/4455ecea-835e-4ac3-85c9-7a6d07d83588.avif,/uploads/products/4693469c-e408-4b2c-b746-8137d3f51741.avif,/uploads/products/46a7fb12-8718-431f-b3ea-ff5f1cf72461.avif,/uploads/products/48e2a446-35ee-4faa-87d2-0913fb0e5e1e.avif,/uploads/products/494375da-2c23-4bef-8d50-12f24dd64fc0.avif",
+    "name": "Adidas Stan Smith Cloud White Green",
+    "sizes": "38,39,40",
+    "slug": "adidas-stan-smith-cloud-white-green-1779437700037",
+    "status": "ACTIVE",
+    "totalQuantity": 22,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000026",
+    "createdAt": "2026-05-30T10:38:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4200000,
+    "description": "Adidas Adizero Boston 12 huong den nguoi chay toc do voi cam giac nhe va on dinh.",
+    "imageUrl": "/uploads/products/4abd9830-8b65-4e0b-b764-d4f0045cb121.avif,/uploads/products/4aed2d92-26c8-4a5c-ad9a-b8a6deac6bf5.avif,/uploads/products/4bc9d016-20e1-4e65-a6ab-603269bb65f5.avif,/uploads/products/4c24016d-fa84-4d1a-9e30-3c695f8fad63.avif,/uploads/products/4f37aa2f-8fac-4c2e-9300-4a8f85c127c2.avif",
+    "name": "Adidas Adizero Boston 12 Lucid Lemon",
+    "sizes": "40,41,42",
+    "slug": "adidas-adizero-boston-12-lucid-lemon-1779437700038",
+    "status": "ACTIVE",
+    "totalQuantity": 14,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000002"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000027",
+    "createdAt": "2026-05-30T10:39:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2100000,
+    "description": "Puma Suede Classic XXI Black White giu dang suede co dien, phu hop phoi do hang ngay.",
+    "imageUrl": "/uploads/products/517ccfc0-b485-4f56-975e-0fbe9dc0fe1a.avif,/uploads/products/520370bb-ace0-408e-8102-77a554f40c02.avif,/uploads/products/52a892b0-52ba-4de9-9295-27132c1f8db4.avif,/uploads/products/549ac0c3-c05b-4703-9fe1-aea662994c86.avif,/uploads/products/54b4a464-99be-4b85-b97e-917bd643f731.avif",
+    "name": "Puma Suede Classic XXI Black White",
+    "sizes": "38,39,40",
+    "slug": "puma-suede-classic-xxi-black-white-1779437700039",
+    "status": "ACTIVE",
+    "totalQuantity": 20,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000028",
+    "createdAt": "2026-05-30T10:40:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2900000,
+    "description": "Puma RS-X Efekt PRM co form chunky hien dai va phoi mau de mang.",
+    "imageUrl": "/uploads/products/56531ddb-e44c-4f99-b584-89d08d2e596d.avif,/uploads/products/571d9022-693c-43c0-bb6d-0206207cf3ac.avif,/uploads/products/599adaa4-9a83-4f0d-a7b1-ad4a47070f52.avif,/uploads/products/5f46ef06-ad21-408f-8a96-53853507a6f8.png,/uploads/products/62f4ca04-c5d1-4292-9390-a10f91c4ff73.avif",
+    "name": "Puma RS-X Efekt PRM White Black",
+    "sizes": "39,40,41",
+    "slug": "puma-rs-x-efekt-prm-white-black-1779437700040",
+    "status": "ACTIVE",
+    "totalQuantity": 17,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000029",
+    "createdAt": "2026-05-30T10:41:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4300000,
+    "description": "Puma Deviate Nitro 3 duoc thiet ke cho chay toc do voi dem Nitro em va hoan luc tot.",
+    "imageUrl": "/uploads/products/64f0ecfd-3990-449c-a28b-a4f864e9ecd1.avif,/uploads/products/667cbd86-fbad-4bd2-b104-e0c8aff7e0ae.avif,/uploads/products/6953741c-0da6-470d-ad25-3c3f2630d0cd.avif,/uploads/products/696de120-bba9-4690-aebb-2fa1d8e7f7bc.avif,/uploads/products/69a56bca-3672-4078-ba06-58feb3d727dd.avif",
+    "name": "Puma Deviate Nitro 3 Fireglow",
+    "sizes": "40,41,42",
+    "slug": "puma-deviate-nitro-3-fireglow-1779437700041",
+    "status": "ACTIVE",
+    "totalQuantity": 13,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000002a",
+    "createdAt": "2026-05-30T10:42:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2500000,
+    "description": "Puma Palermo Leather White Green lay cam hung terrace style voi de gum co dien.",
+    "imageUrl": "/uploads/products/6d67050c-ee01-4b7f-a24b-50015b9c745a.avif,/uploads/products/6e4ead47-ee9c-4e40-8c61-a649242474b8.avif,/uploads/products/6f19161c-2c9a-4641-9c98-fedcd90bdd8b.avif,/uploads/products/70453356-2f91-4258-8731-69529542b299.avif,/uploads/products/70c5c6e4-1767-410b-8fea-07def18ac506.avif",
+    "name": "Puma Palermo Leather White Green",
+    "sizes": "38,39,40",
+    "slug": "puma-palermo-leather-white-green-1779437700042",
+    "status": "ACTIVE",
+    "totalQuantity": 19,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000004"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000002b",
+    "createdAt": "2026-05-30T10:43:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2300000,
+    "description": "New Balance 574 Core Grey White la mau sneaker co dien voi dem ENCAP on dinh.",
+    "imageUrl": "/uploads/products/75df3559-fb7a-4af3-a14b-2f10bf3dd2ad.avif,/uploads/products/7655798d-0a53-4070-b1b8-d7d2d61bac76.avif,/uploads/products/7721784d-2e65-4f7d-85da-f691cadb6bab.avif,/uploads/products/77230131-f9cc-4fd8-9ff8-cb4aefad10f5.avif,/uploads/products/7ded80a4-fce0-4e08-ba3e-76db2d7f0c66.avif",
+    "name": "New Balance 574 Core Grey White",
+    "sizes": "38,39,40",
+    "slug": "new-balance-574-core-grey-white-1779437700043",
+    "status": "ACTIVE",
+    "totalQuantity": 23,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000002c",
+    "createdAt": "2026-05-30T10:44:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2900000,
+    "description": "New Balance 327 Moonbeam Black co form retro running va logo N phong cach.",
+    "imageUrl": "/uploads/products/7df4c880-07d2-4a49-b9fa-be29e0d22644.avif,/uploads/products/80620978-4f19-40f8-9b28-37689be88670.avif,/uploads/products/80da8d4d-5711-4604-982f-451f6a1a7f9b.avif,/uploads/products/834dc71b-bace-4dc0-b3dd-efadefa85e83.avif,/uploads/products/862233c8-0f9f-4cba-83c1-170a2772434c.avif",
+    "name": "New Balance 327 Moonbeam Black",
+    "sizes": "39,40,41",
+    "slug": "new-balance-327-moonbeam-black-1779437700044",
+    "status": "ACTIVE",
+    "totalQuantity": 17,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000002d",
+    "createdAt": "2026-05-30T10:45:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4200000,
+    "description": "New Balance Fresh Foam X 1080 v13 ho tro chay dai voi dem Fresh Foam X mem.",
+    "imageUrl": "/uploads/products/8810d442-82ee-473c-8287-ec2e590344ee.avif,/uploads/products/8853fa50-d83a-4941-81b4-1d071e012931.avif,/uploads/products/904deb9c-517d-4a76-8f05-2fb000ba0c6b.avif,/uploads/products/9226933a-6ca5-4761-9f1b-b41f8083b9e0.avif,/uploads/products/958887dc-45bd-4d14-94e1-2f8df2c70bf2.avif",
+    "name": "New Balance Fresh Foam X 1080 v13 Black",
+    "sizes": "40,41,42",
+    "slug": "new-balance-fresh-foam-x-1080-v13-black-1779437700045",
+    "status": "ACTIVE",
+    "totalQuantity": 14,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000002e",
+    "createdAt": "2026-05-30T10:46:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 3700000,
+    "description": "New Balance 1906R Silver Metallic co phong cach running Y2K va dem thoai mai.",
+    "imageUrl": "/uploads/products/95d4265d-4201-440d-882d-c7087db72f17.avif,/uploads/products/9760c9cc-8c0d-42f9-ab67-1a4b68a75b15.avif,/uploads/products/985c13e4-3ae3-4608-825d-aae6b2a121fe.avif,/uploads/products/98aa66f7-a59f-4075-af61-c1b631d77e6d.avif,/uploads/products/9a6a7fe8-bacd-4ec9-8b01-721d4f637406.avif",
+    "name": "New Balance 1906R Silver Metallic",
+    "sizes": "39,40,41",
+    "slug": "new-balance-1906r-silver-metallic-1779437700046",
+    "status": "ACTIVE",
+    "totalQuantity": 16,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000006"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000002f",
+    "createdAt": "2026-05-30T10:47:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1900000,
+    "description": "FILA Disruptor II Premium White Navy voi form chunky dac trung va de day.",
+    "imageUrl": "/uploads/products/9abd395b-16dc-4f53-9ba5-681b7ad518bf.avif,/uploads/products/9bebfa01-af12-4133-9cc7-cd35f879cedc.avif,/uploads/products/9c22d543-141f-45f6-8880-67960883ac3f.avif,/uploads/products/9d2c71b6-7c91-4f92-96a9-945362dacdc3.avif,/uploads/products/9d5bffbe-83b1-4126-a9de-8d5373c3ec8a.avif",
+    "name": "FILA Disruptor II Premium White Navy",
+    "sizes": "37,38,39",
+    "slug": "fila-disruptor-ii-premium-white-navy-1779437700047",
+    "status": "ACTIVE",
+    "totalQuantity": 20,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000030",
+    "createdAt": "2026-05-30T10:48:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2100000,
+    "description": "FILA Ray Tracer Tr 2 co thiet ke the thao retro va phoi mau trang do navy.",
+    "imageUrl": "/uploads/products/a2186134-b16d-4026-9959-e8b58b2bdae0.avif,/uploads/products/a37f6f2d-abc8-4ef9-b714-e5206d19c823.avif,/uploads/products/ad64114f-87ac-41b6-a1cb-ec475b0ea387.avif,/uploads/products/adbf32f5-ba84-4cc4-ba71-99daeff782be.avif,/uploads/products/b0d70a7c-71a1-4958-8b3e-25ccd8a145c9.avif",
+    "name": "FILA Ray Tracer Tr 2 White Red Navy",
+    "sizes": "38,39,40",
+    "slug": "fila-ray-tracer-tr-2-white-red-navy-1779437700048",
+    "status": "ACTIVE",
+    "totalQuantity": 17,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000031",
+    "createdAt": "2026-05-30T10:49:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2200000,
+    "description": "FILA Oakmont TR Beige Black mang phong cach trail sneaker voi de bam tot.",
+    "imageUrl": "/uploads/products/b1b33e20-64a8-422c-9a0c-903ca03d2437.avif,/uploads/products/b3deb976-5b40-4dd0-94b2-f8c170c0346e.avif,/uploads/products/b7b1b648-5ed6-44e1-bf63-7edac4af3976.avif,/uploads/products/b8489292-c298-42ac-b939-813e34e12ce0.avif,/uploads/products/b95e5372-fcd9-4819-b1dd-672776fa94ac.avif",
+    "name": "FILA Oakmont TR Beige Black",
+    "sizes": "39,40,41",
+    "slug": "fila-oakmont-tr-beige-black-1779437700049",
+    "status": "ACTIVE",
+    "totalQuantity": 16,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000032",
+    "createdAt": "2026-05-30T10:50:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2500000,
+    "description": "FILA MB White Navy Red lay cam hung bong ro co cao voi phoi mau nhan dien cua hang.",
+    "imageUrl": "/uploads/products/ba2fd656-b8ec-43a6-a8c7-424ae28e5349.avif,/uploads/products/c2709275-857f-42df-8fca-67100d72d41a.avif,/uploads/products/c35cf784-9c99-44be-a5f6-a48324eb84f2.avif,/uploads/products/c400930b-f446-4d16-bb0d-b557d70fb75f.png,/uploads/products/c47ee490-72f1-442e-952e-3e8aa79a118b.avif",
+    "name": "FILA MB White Navy Red",
+    "sizes": "40,41,42",
+    "slug": "fila-mb-white-navy-red-1779437700050",
+    "status": "ACTIVE",
+    "totalQuantity": 13,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000005"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000003"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000033",
+    "createdAt": "2026-05-30T10:51:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1600000,
+    "description": "Converse Chuck Taylor All Star Classic Black la mau canvas co dien de mang hang ngay.",
+    "imageUrl": "/uploads/products/c7b5b3ba-cc87-48d6-9d3b-83b5c6f3ffc6.avif,/uploads/products/c8430054-cf04-4ebc-989c-bb90117c4182.avif,/uploads/products/cb6d396a-7532-4aaf-af7b-99e9434e83b9.avif,/uploads/products/cc5cc881-778a-4053-bbd0-6292dc656834.avif,/uploads/products/cccfad75-489b-4fc0-8b3b-c285ab05519c.png",
+    "name": "Converse Chuck Taylor All Star Classic Black",
+    "sizes": "38,39,40",
+    "slug": "converse-chuck-taylor-all-star-classic-black-1779437700051",
+    "status": "ACTIVE",
+    "totalQuantity": 26,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000008"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000034",
+    "createdAt": "2026-05-30T10:52:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2600000,
+    "description": "Converse Run Star Hike High co de rang cua noi bat va upper canvas co cao.",
+    "imageUrl": "/uploads/products/cd239353-0e30-4c18-a3d4-f2455f02d04c.avif,/uploads/products/cffdbd54-0dc6-475a-9015-7249975e0dd9.avif,/uploads/products/d02bdab2-7e4c-4474-9eb3-ab74c2679cf6.avif,/uploads/products/d07636e7-06c4-463c-8528-69d264389484.avif,/uploads/products/d5171f49-36ba-4c73-b026-49c9696273a6.avif",
+    "name": "Converse Run Star Hike High Black White Gum",
+    "sizes": "38,39,40",
+    "slug": "converse-run-star-hike-high-black-white-gum-1779437700052",
+    "status": "ACTIVE",
+    "totalQuantity": 17,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000008"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000035",
+    "createdAt": "2026-05-30T10:53:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2100000,
+    "description": "Converse One Star Pro Ox Black White voi than suede va logo ngoi sao dac trung.",
+    "imageUrl": "/uploads/products/d5daad20-524d-49a4-9cb4-7ba3118d3f0f.avif,/uploads/products/d673712c-abbe-4603-ad41-c4d1f5bf9806.avif,/uploads/products/d7fcbd28-af72-4525-b336-e0e8fe104dc4.avif,/uploads/products/d994d18a-90e9-4390-9d92-eeb7dba1f027.avif,/uploads/products/d9a751e1-a97c-4ead-8849-1def739db166.avif",
+    "name": "Converse One Star Pro Ox Black White",
+    "sizes": "39,40,41",
+    "slug": "converse-one-star-pro-ox-black-white-1779437700053",
+    "status": "ACTIVE",
+    "totalQuantity": 16,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000008"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000036",
+    "createdAt": "2026-05-30T10:54:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1700000,
+    "description": "Vans Old Skool Black White co side stripe kinh dien va de waffle bam tot.",
+    "imageUrl": "/uploads/products/d9ad53b2-ada3-4311-a200-ee1fb8ff2045.avif,/uploads/products/e080d7b1-8602-4b8e-84d3-b9ff7f13cd30.avif,/uploads/products/e1adb13b-5e28-415b-80aa-690124ff1c5c.avif,/uploads/products/e4351e5d-4606-43ae-a898-ad3f19135612.avif,/uploads/products/e45d7333-b363-45be-9a2e-2b94c6ccf5be.avif",
+    "name": "Vans Old Skool Black White",
+    "sizes": "38,39,40",
+    "slug": "vans-old-skool-black-white-1779437700054",
+    "status": "ACTIVE",
+    "totalQuantity": 26,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000009"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000037",
+    "createdAt": "2026-05-30T10:55:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1900000,
+    "description": "Vans Sk8-Hi True White Black la mau co cao phong cach skate voi than canvas va suede.",
+    "imageUrl": "/uploads/products/e5ed87ab-5db5-43b8-8de3-e2fc31e5948c.avif,/uploads/products/e7c0aa47-9416-452e-8f02-2c9d4fe7754c.avif,/uploads/products/e85951d0-ec97-450c-877d-9d9504a7b623.avif,/uploads/products/e9982713-707f-4900-a2df-6794cd53d3aa.avif,/uploads/products/eae3909e-613c-4aad-ade9-03dd598d75fe.avif",
+    "name": "Vans Sk8-Hi True White Black",
+    "sizes": "39,40,41",
+    "slug": "vans-sk8-hi-true-white-black-1779437700055",
+    "status": "ACTIVE",
+    "totalQuantity": 19,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000009"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000038",
+    "createdAt": "2026-05-30T10:56:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 1500000,
+    "description": "Vans Classic Slip-On Checkerboard co thiet ke xỏ nhanh va hoa tiet ban co dac trung.",
+    "imageUrl": "/uploads/products/eb3a0c54-0673-4f08-b7ad-7a398ebb5e28.avif,/uploads/products/ebc85468-d61e-4568-9297-beb6aa3c4213.avif,/uploads/products/ebf94ee3-4563-4301-b818-15999e383c1a.avif,/uploads/products/ed7f1503-5b63-42f5-b9f9-e77c2d061a5e.avif,/uploads/products/ef559659-75f9-4c37-962c-d4d64d693bf4.avif",
+    "name": "Vans Classic Slip-On Checkerboard",
+    "sizes": "37,38,39",
+    "slug": "vans-classic-slip-on-checkerboard-1779437700056",
+    "status": "ACTIVE",
+    "totalQuantity": 23,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c00000009"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000005"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c900000000039",
+    "createdAt": "2026-05-30T10:57:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4200000,
+    "description": "ASICS Gel-Kayano 30 ho tro on dinh cho chay bo voi cong nghe PureGEL va FF Blast Plus Eco.",
+    "imageUrl": "/uploads/products/efd7560a-e9f6-41df-a29a-999276613db3.avif,/uploads/products/f63a9529-f5c5-45f8-8fce-564a7b0509da.avif,/uploads/products/f8c10836-db9c-4aa3-a4e1-80acbb76254f.avif,/uploads/products/f8e6b469-7add-4664-898f-1da0f493c2cc.avif,/uploads/products/f9652f22-bd14-46f7-9021-4a59922fba21.avif",
+    "name": "ASICS Gel-Kayano 30 Black Glow Yellow",
+    "sizes": "40,41,42",
+    "slug": "asics-gel-kayano-30-black-glow-yellow-1779437700057",
+    "status": "ACTIVE",
+    "totalQuantity": 14,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c0000000a"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000003a",
+    "createdAt": "2026-05-30T10:58:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 4400000,
+    "description": "ASICS Gel-Nimbus 26 tap trung vao do em va cam giac tiep dat muot khi chay duong dai.",
+    "imageUrl": "/uploads/products/f9fbb04d-ad08-4e54-8ede-8c55a37c44fa.avif,/uploads/products/fc38fec5-21c9-4750-8bd6-cdafc025bfb9.avif,/uploads/products/ff21f4a8-c879-46cf-8080-d1beb739fd75.avif,/uploads/products/01120ec4-498e-4bb8-86cc-12df763a5779.avif,/uploads/products/0120b05e-60d6-4dab-beb5-cd02e4a11a0c.avif",
+    "name": "ASICS Gel-Nimbus 26 White Pure Silver",
+    "sizes": "39,40,41",
+    "slug": "asics-gel-nimbus-26-white-pure-silver-1779437700058",
+    "status": "ACTIVE",
+    "totalQuantity": 16,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c0000000a"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000002"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000003b",
+    "createdAt": "2026-05-30T10:59:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2200000,
+    "description": "Reebok Club C 85 Vintage Chalk Green co dang tennis co dien voi upper da mem.",
+    "imageUrl": "/uploads/products/042e274d-db01-49da-b4bf-f4b8adb4978c.avif,/uploads/products/0aad4706-034f-4293-ad0f-32449a2c3e0a.avif,/uploads/products/0aff2bd1-92a5-4599-96b6-dde48cf92340.avif,/uploads/products/0c8a45c7-c0a7-4ce9-9db2-d7936c22bdfe.avif,/uploads/products/0f5c7a67-3bba-4762-85ce-c63867cedbd4.avif",
+    "name": "Reebok Club C 85 Vintage Chalk Green",
+    "sizes": "38,39,40",
+    "slug": "reebok-club-c-85-vintage-chalk-green-1779437700059",
+    "status": "ACTIVE",
+    "totalQuantity": 20,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c0000000b"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000004"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c90000000003c",
+    "createdAt": "2026-05-30T10:60:00.000Z",
+    "updatedAt": "2026-05-30T12:30:00.000Z",
+    "basePrice": 2100000,
+    "description": "Reebok Classic Leather White Gum la mau sneaker co dien voi than da trang va de gum.",
+    "imageUrl": "/uploads/products/123d8474-232c-45ea-a98b-20349569604e.avif,/uploads/products/13c21218-1994-47e5-80d9-c2e85faef8e7.avif,/uploads/products/1414b843-79f2-45ea-928a-be1706528801.avif,/uploads/products/157c1632-d39c-4738-a20f-4cf57f6fd5f9.avif,/uploads/products/18433f7e-be03-43d7-8c54-9b40113a0477.avif",
+    "name": "Reebok Classic Leather White Gum",
+    "sizes": "38,39,40",
+    "slug": "reebok-classic-leather-white-gum-1779437700060",
+    "status": "ACTIVE",
+    "totalQuantity": 20,
+    "brand": {
+      "$ref": "brands",
+      "$id": "60b9b3e1f0e4b85c1c8c0000000b"
+    },
+    "category": {
+      "$ref": "categories",
+      "$id": "60b9b3e1f0e4b85c1c8d00000001"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000002",
+    "name": "Adidas"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000005",
+    "name": "FILA"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000007",
+    "name": "Jeep"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000003",
+    "name": "MLB"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000006",
+    "name": "New Balance"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000001",
+    "name": "Nike"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000004",
+    "name": "Puma"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000008",
+    "name": "Converse"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c00000009",
+    "name": "Vans"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c0000000a",
+    "name": "ASICS"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8c0000000b",
+    "name": "Reebok"
+  }
+]

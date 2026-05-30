@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9300000001",
+    "createdAt": "2026-05-22T08:14:59.633Z",
+    "updatedAt": "2026-05-22T08:14:59.633Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000001"
+    },
+    "recipientName": "System Admin",
+    "phoneNumber": "0123456789",
+    "addressLine": "123 Đường Láng",
+    "ward": "Láng Thượng",
+    "district": "Đống Đa",
+    "city": "Hà Nội",
+    "country": "Việt Nam",
+    "postalCode": "100000"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9300000002",
+    "createdAt": "2026-05-22T08:14:59.745Z",
+    "updatedAt": "2026-05-22T08:14:59.745Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "recipientName": "Nguyen Van An",
+    "phoneNumber": "0901000001",
+    "addressLine": "456 Lê Lợi",
+    "ward": "Bến Thành",
+    "district": "Quận 1",
+    "city": "TP. Hồ Chí Minh",
+    "country": "Việt Nam",
+    "postalCode": "700000"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9300000003",
+    "createdAt": "2026-05-22T08:14:59.847Z",
+    "updatedAt": "2026-05-22T08:14:59.847Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "recipientName": "Tran Thi Binh",
+    "phoneNumber": "0901000002",
+    "addressLine": "789 Nguyễn Văn Linh",
+    "ward": "Hưng Lợi",
+    "district": "Ninh Kiều",
+    "city": "Cần Thơ",
+    "country": "Việt Nam",
+    "postalCode": "900000"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c8b00000001",
+    "createdAt": "2026-05-22T08:14:59.633Z",
+    "updatedAt": "2026-05-22T08:14:59.633Z",
+    "avatarUrl": null,
+    "email": "admin@admin.com",
+    "fullName": "System Admin",
+    "password": "$2b$10$/ZrJsYkjHl.2hDErUg.dneMKn0BQqN48UxVryBwVXXRvPZ13eVQtS",
+
+    "phoneNumber": 123456789,
+    "status": "ACTIVE",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": "60b9b3e1f0e4b85c1c8a00000001"
+      }
+    ]
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8b00000002",
+    "createdAt": "2026-05-22T08:14:59.745Z",
+    "updatedAt": "2026-05-22T08:14:59.745Z",
+    "avatarUrl": "https://api.dicebear.com/8.x/initials/svg?seed=Nguyen%20Van%20An",
+    "email": "staff.an@local.com",
+    "fullName": "Nguyen Van An",
+    "password": "$2a$10$Fh1GIyM7XS38jPhBvTmHaO90j.QyHOrGMnPWbq0O9BtQQWhEOq/ha",
+    "phoneNumber": 901000001,
+    "status": "ACTIVE",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": "60b9b3e1f0e4b85c1c8a00000002"
+      }
+    ]
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8b00000003",
+    "createdAt": "2026-05-22T08:14:59.847Z",
+    "updatedAt": "2026-05-22T08:14:59.847Z",
+    "avatarUrl": "https://api.dicebear.com/8.x/initials/svg?seed=Tran%20Thi%20Binh",
+    "email": "staff.binh@local.com",
+    "fullName": "Tran Thi Binh",
+    "password": "$2a$10$dYYZaAivru2HJPg12UHeJ.5msQ/x1UNuHyJCW.gSQMor40WKLfMaS",
+    "phoneNumber": 901000002,
+    "status": "ACTIVE",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": "60b9b3e1f0e4b85c1c8a00000002"
+      }
+    ]
+  }
+]

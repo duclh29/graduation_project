@@ -1,0 +1,16 @@
+/target/
+/out/
+/.idea/
+*.iml
+
+# Node/Vite build artifacts
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local dependency/cache folders
+/.m2/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

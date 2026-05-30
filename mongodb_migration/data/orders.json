@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9a00000001",
+    "createdAt": "2026-05-28T09:30:00.000Z",
+    "updatedAt": "2026-05-28T10:00:00.000Z",
+    "orderCode": "ORD-POS-001",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000001"
+    },
+    "status": "DELIVERED",
+    "subtotalAmount": 3200000,
+    "discountAmount": 320000,
+    "shippingFee": 0,
+    "finalPrice": 2880000,
+    "note": "Đơn hàng mua trực tiếp tại quầy POS",
+    "payment": {
+      "$ref": "payments",
+      "$id": "60b9b3e1f0e4b85c1c9d00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9a00000002",
+    "createdAt": "2026-05-29T08:15:00.000Z",
+    "updatedAt": "2026-05-29T08:20:00.000Z",
+    "orderCode": "ORD-OL-002",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "status": "SHIPPING",
+    "subtotalAmount": 1250000,
+    "discountAmount": 125000,
+    "shippingFee": 30000,
+    "finalPrice": 1155000,
+    "note": "Giao giờ hành chính, gọi điện trước khi giao",
+    "payment": {
+      "$ref": "payments",
+      "$id": "60b9b3e1f0e4b85c1c9d00000002"
+    },
+    "shipping": {
+      "$ref": "shippings",
+      "$id": "60b9b3e1f0e4b85c1c9f00000001"
+    }
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9a00000003",
+    "createdAt": "2026-05-29T14:00:00.000Z",
+    "updatedAt": "2026-05-29T14:00:00.000Z",
+    "orderCode": "ORD-OL-003",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "status": "PENDING",
+    "subtotalAmount": 1500000,
+    "discountAmount": 150000,
+    "shippingFee": 30000,
+    "finalPrice": 1380000,
+    "note": "Khách hàng mua online, thanh toán qua ngân hàng",
+    "payment": {
+      "$ref": "payments",
+      "$id": "60b9b3e1f0e4b85c1c9d00000003"
+    },
+    "shipping": {
+      "$ref": "shippings",
+      "$id": "60b9b3e1f0e4b85c1c9f00000002"
+    }
+  }
+]

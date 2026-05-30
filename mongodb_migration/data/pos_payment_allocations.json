@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9e00000001",
+    "createdAt": "2026-05-28T09:35:00.000Z",
+    "updatedAt": "2026-05-28T09:35:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "amount": 1000000,
+    "cashReceived": 1000000,
+    "changeAmount": 0,
+    "method": "COD",
+    "note": "Khách trả tiền mặt 1 triệu đồng"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9e00000002",
+    "createdAt": "2026-05-28T09:35:00.000Z",
+    "updatedAt": "2026-05-28T09:35:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "amount": 1880000,
+    "cashReceived": 1880000,
+    "changeAmount": 0,
+    "method": "CREDIT_CARD",
+    "referenceCode": "REF-CARD-88390",
+    "note": "Quẹt thẻ Vietcombank phần còn lại"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9600000001",
+    "createdAt": "2026-05-28T07:55:00.000Z",
+    "updatedAt": "2026-05-28T12:05:00.000Z",
+    "schedule": {
+      "$ref": "work_schedules",
+      "$id": "60b9b3e1f0e4b85c1c9500000001"
+    },
+    "checkInAt": "2026-05-28T07:55:00.000Z",
+    "checkOutAt": "2026-05-28T12:05:00.000Z",
+    "actualWorkMinutes": 245,
+    "lateMinutes": 0,
+    "earlyLeaveMinutes": 0,
+    "overtimeMinutes": 5,
+    "status": "PRESENT",
+    "source": "SYSTEM",
+    "note": "Đúng giờ và làm thêm 5 phút",
+    "approvedAt": "2026-05-28T12:10:00.000Z"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9600000002",
+    "createdAt": "2026-05-28T13:32:00.000Z",
+    "updatedAt": "2026-05-28T17:30:00.000Z",
+    "schedule": {
+      "$ref": "work_schedules",
+      "$id": "60b9b3e1f0e4b85c1c9500000002"
+    },
+    "checkInAt": "2026-05-28T13:32:00.000Z",
+    "checkOutAt": "2026-05-28T17:30:00.000Z",
+    "actualWorkMinutes": 238,
+    "lateMinutes": 2,
+    "earlyLeaveMinutes": 0,
+    "overtimeMinutes": 0,
+    "status": "PRESENT",
+    "source": "SYSTEM",
+    "note": "Trễ 2 phút do kẹt xe",
+    "approvedAt": "2026-05-28T17:40:00.000Z"
+  }
+]

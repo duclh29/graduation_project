@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1ca300000001",
+    "createdAt": "2026-05-29T10:00:00.000Z",
+    "updatedAt": "2026-05-29T10:00:00.000Z",
+    "schedule": {
+      "$ref": "work_schedules",
+      "$id": "60b9b3e1f0e4b85c1c9500000006"
+    },
+    "fromUser": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "targetUser": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "status": "PENDING",
+    "note": "Nhờ Binh trực hộ sáng thứ 7 do An bận việc gia đình"
+  }
+]

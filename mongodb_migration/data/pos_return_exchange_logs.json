@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1ca100000001",
+    "createdAt": "2026-05-28T10:15:00.000Z",
+    "updatedAt": "2026-05-28T10:15:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "type": "EXCHANGE",
+    "returnedAmount": 1050000,
+    "exchangeAmount": 1100000,
+    "balanceAmount": 50000,
+    "note": "Đổi 1 đôi FILA size 39 lấy 1 đôi Jeep size 40, thu thêm 50,000đ",
+    "detailJson": "{\"returned_items\":[{\"sku\":\"FILA-ES1-W39\",\"qty\":1}],\"exchange_items\":[{\"sku\":\"JEEP-ES2-B40\",\"qty\":1}]}"
+  }
+]

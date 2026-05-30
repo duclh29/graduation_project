@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9f00000001",
+    "createdAt": "2026-05-29T08:20:00.000Z",
+    "updatedAt": "2026-05-29T10:00:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000002"
+    },
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "recipientName": "Tran Thi Binh",
+    "phoneNumber": "0901000002",
+    "addressLine": "789 Nguyễn Văn Linh",
+    "ward": "Hưng Lợi",
+    "district": "Ninh Kiều",
+    "city": "Cần Thơ",
+    "country": "Việt Nam",
+    "postalCode": "900000",
+    "method": "STANDARD",
+    "status": "SHIPPING",
+    "shippingFee": 30000,
+    "trackingNumber": "TRACK-GHN-1008892",
+    "expectedDeliveryDate": "2026-06-01"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9f00000002",
+    "createdAt": "2026-05-29T14:05:00.000Z",
+    "updatedAt": "2026-05-29T14:05:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000003"
+    },
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "recipientName": "Nguyen Van An",
+    "phoneNumber": "0901000001",
+    "addressLine": "456 Lê Lợi",
+    "ward": "Bến Thành",
+    "district": "Quận 1",
+    "city": "TP. Hồ Chí Minh",
+    "country": "Việt Nam",
+    "postalCode": "700000",
+    "method": "STANDARD",
+    "status": "PENDING",
+    "shippingFee": 30000,
+    "expectedDeliveryDate": "2026-06-02"
+  }
+]

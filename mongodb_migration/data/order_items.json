@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9b00000001",
+    "createdAt": "2026-05-28T09:30:00.000Z",
+    "updatedAt": "2026-05-28T09:30:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "variant": {
+      "$ref": "variants",
+      "$id": "60b9b3e1f0e4b85c1c9100000001"
+    },
+    "productName": "FILA Elite Series 1",
+    "skuSnapshot": "FILA-ES1-W39",
+    "sizeSnapshot": "39",
+    "colorSnapshot": "Trắng",
+    "quantity": 2,
+    "returnedQuantity": 1,
+    "requestedReturnQuantity": 0,
+    "unitPrice": 1050000,
+    "totalPrice": 2100000
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9b00000002",
+    "createdAt": "2026-05-28T09:30:00.000Z",
+    "updatedAt": "2026-05-28T09:30:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000001"
+    },
+    "variant": {
+      "$ref": "variants",
+      "$id": "60b9b3e1f0e4b85c1c9100000004"
+    },
+    "productName": "Jeep Elite Series 2",
+    "skuSnapshot": "JEEP-ES2-B40",
+    "sizeSnapshot": "40",
+    "colorSnapshot": "Đen",
+    "quantity": 1,
+    "returnedQuantity": 0,
+    "requestedReturnQuantity": 0,
+    "unitPrice": 1100000,
+    "totalPrice": 1100000
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9b00000003",
+    "createdAt": "2026-05-29T08:15:00.000Z",
+    "updatedAt": "2026-05-29T08:15:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000002"
+    },
+    "variant": {
+      "$ref": "variants",
+      "$id": "60b9b3e1f0e4b85c1c910000000d"
+    },
+    "productName": "Nike Elite Series 5",
+    "skuSnapshot": "NIKE-ES5-W41",
+    "sizeSnapshot": "41",
+    "colorSnapshot": "Xám",
+    "quantity": 1,
+    "returnedQuantity": 0,
+    "requestedReturnQuantity": 0,
+    "unitPrice": 1250000,
+    "totalPrice": 1250000
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9b00000004",
+    "createdAt": "2026-05-29T14:00:00.000Z",
+    "updatedAt": "2026-05-29T14:00:00.000Z",
+    "order": {
+      "$ref": "orders",
+      "$id": "60b9b3e1f0e4b85c1c9a00000003"
+    },
+    "variant": {
+      "$ref": "variants",
+      "$id": "60b9b3e1f0e4b85c1c910000001c"
+    },
+    "productName": "MLB Elite Series 10",
+    "skuSnapshot": "MLB-ES10-N39",
+    "sizeSnapshot": "39",
+    "colorSnapshot": "Xanh Dương",
+    "quantity": 1,
+    "returnedQuantity": 0,
+    "requestedReturnQuantity": 0,
+    "unitPrice": 1500000,
+    "totalPrice": 1500000
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c8d00000003",
+    "name": "Basketball"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8d00000004",
+    "name": "Lifestyle"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8d00000002",
+    "name": "Running"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8d00000005",
+    "name": "Slip-on"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c8d00000001",
+    "name": "Sneakers"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "60b9b3e1f0e4b85c1c9500000001",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000001"
+    },
+    "workDate": "2026-05-28",
+    "plannedStartAt": "2026-05-28T08:00:00.000Z",
+    "plannedEndAt": "2026-05-28T12:00:00.000Z",
+    "status": "PRESENT",
+    "publishStatus": "PUBLISHED",
+    "note": "Lịch trực sáng thứ 5",
+    "publishedAt": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9500000002",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000002"
+    },
+    "workDate": "2026-05-28",
+    "plannedStartAt": "2026-05-28T13:30:00.000Z",
+    "plannedEndAt": "2026-05-28T17:30:00.000Z",
+    "status": "PRESENT",
+    "publishStatus": "PUBLISHED",
+    "note": "Lịch trực chiều thứ 5",
+    "publishedAt": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9500000003",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000002"
+    },
+    "workDate": "2026-05-28",
+    "plannedStartAt": "2026-05-28T13:30:00.000Z",
+    "plannedEndAt": "2026-05-28T17:30:00.000Z",
+    "status": "PRESENT",
+    "publishStatus": "PUBLISHED",
+    "note": "Lịch trực chiều thứ 5 Binh",
+    "publishedAt": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9500000004",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000001"
+    },
+    "workDate": "2026-05-29",
+    "plannedStartAt": "2026-05-29T08:00:00.000Z",
+    "plannedEndAt": "2026-05-29T12:00:00.000Z",
+    "status": "PRESENT",
+    "publishStatus": "PUBLISHED",
+    "note": "Lịch trực sáng thứ 6",
+    "publishedAt": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9500000005",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000003"
+    },
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000003"
+    },
+    "workDate": "2026-05-29",
+    "plannedStartAt": "2026-05-29T18:00:00.000Z",
+    "plannedEndAt": "2026-05-29T22:00:00.000Z",
+    "status": "PRESENT",
+    "publishStatus": "PUBLISHED",
+    "note": "Lịch trực tối thứ 6 Binh",
+    "publishedAt": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "_id": "60b9b3e1f0e4b85c1c9500000006",
+    "createdAt": "2026-05-27T08:00:00.000Z",
+    "updatedAt": "2026-05-27T08:00:00.000Z",
+    "user": {
+      "$ref": "users",
+      "$id": "60b9b3e1f0e4b85c1c8b00000002"
+    },
+    "shift": {
+      "$ref": "shifts",
+      "$id": "60b9b3e1f0e4b85c1c9400000001"
+    },
+    "workDate": "2026-05-30",
+    "plannedStartAt": "2026-05-30T08:00:00.000Z",
+    "plannedEndAt": "2026-05-30T12:00:00.000Z",
+    "status": "SCHEDULED",
+    "publishStatus": "PUBLISHED",
+    "note": "Lịch trực sáng thứ 7",
+    "publishedAt": "2026-05-27T09:00:00.000Z"
+  }
+]

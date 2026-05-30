@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Nike Air Max 90 'Mercurial'",
+    "slug": "nike-air-max-90-mercurial",
+    "brandName": "Nike",
+    "categoryName": "Sneakers",
+    "description": "Nike Air Max 90 lấy cảm hứng từ Mercurial Vapor 2002 với phối màu đen, vàng và chi tiết bạc.",
+    "basePrice": 4300000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/Nike-Air-Max-90-Mercurial-Black-Yellow-Product.jpg,https://images.stockx.com/images/Nike-Air-Max-90-Mercurial-Black-Yellow-Product-2.jpg,https://images.stockx.com/images/Nike-Air-Max-90-Mercurial-Black-Yellow-Product-3.jpg",
+    "variants": [
+      { "sku": "NIK-AM90-MER-BLK-39", "color": "Black/Yellow", "size": "39", "stockQuantity": 4, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Nike-Air-Max-90-Mercurial-Black-Yellow-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NIK-AM90-MER-BLK-40", "color": "Black/Yellow", "size": "40", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Nike-Air-Max-90-Mercurial-Black-Yellow-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NIK-AM90-MER-BLK-41", "color": "Black/Yellow", "size": "41", "stockQuantity": 3, "additionalPrice": 100000, "imageUrl": "https://images.stockx.com/images/Nike-Air-Max-90-Mercurial-Black-Yellow-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Nike Air Force 1 Low '07 White",
+    "slug": "nike-air-force-1-low-07-white",
+    "brandName": "Nike",
+    "categoryName": "Lifestyle",
+    "description": "Nike Air Force 1 Low '07 White, mẫu sneaker da trắng cổ điển, dễ phối đồ.",
+    "basePrice": 2800000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/Nike-Air-Force-1-Low-07-White-Product.jpg",
+    "variants": [
+      { "sku": "NIK-AF1-WHT-38", "color": "White", "size": "38", "stockQuantity": 8, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Nike-Air-Force-1-Low-07-White-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NIK-AF1-WHT-39", "color": "White", "size": "39", "stockQuantity": 8, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Nike-Air-Force-1-Low-07-White-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NIK-AF1-WHT-40", "color": "White", "size": "40", "stockQuantity": 7, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Nike-Air-Force-1-Low-07-White-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Adidas Samba OG Cloud White Core Black",
+    "slug": "adidas-samba-og-cloud-white-core-black",
+    "brandName": "Adidas",
+    "categoryName": "Lifestyle",
+    "description": "Adidas Samba OG phối trắng đen cổ điển với upper da và mũi suede.",
+    "basePrice": 2600000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/adidas-Samba-OG-Cloud-White-Core-Black-Product.jpg",
+    "variants": [
+      { "sku": "ADI-SAMBA-WHT-38", "color": "Cloud White/Core Black", "size": "38", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/adidas-Samba-OG-Cloud-White-Core-Black-Product.jpg", "status": "ACTIVE" },
+      { "sku": "ADI-SAMBA-WHT-39", "color": "Cloud White/Core Black", "size": "39", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/adidas-Samba-OG-Cloud-White-Core-Black-Product.jpg", "status": "ACTIVE" },
+      { "sku": "ADI-SAMBA-WHT-40", "color": "Cloud White/Core Black", "size": "40", "stockQuantity": 5, "additionalPrice": 50000, "imageUrl": "https://images.stockx.com/images/adidas-Samba-OG-Cloud-White-Core-Black-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Adidas Gazelle Indoor Blue Bird",
+    "slug": "adidas-gazelle-indoor-blue-bird",
+    "brandName": "Adidas",
+    "categoryName": "Lifestyle",
+    "description": "Adidas Gazelle Indoor Blue Bird với upper suede xanh và đế gum cổ điển.",
+    "basePrice": 2900000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/adidas-Gazelle-Indoor-Blue-Bird-Product.jpg",
+    "variants": [
+      { "sku": "ADI-GAZ-BLU-39", "color": "Blue Bird/White/Gum", "size": "39", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/adidas-Gazelle-Indoor-Blue-Bird-Product.jpg", "status": "ACTIVE" },
+      { "sku": "ADI-GAZ-BLU-40", "color": "Blue Bird/White/Gum", "size": "40", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/adidas-Gazelle-Indoor-Blue-Bird-Product.jpg", "status": "ACTIVE" },
+      { "sku": "ADI-GAZ-BLU-41", "color": "Blue Bird/White/Gum", "size": "41", "stockQuantity": 4, "additionalPrice": 100000, "imageUrl": "https://images.stockx.com/images/adidas-Gazelle-Indoor-Blue-Bird-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "FILA Disruptor II Premium White",
+    "slug": "fila-disruptor-ii-premium-white",
+    "brandName": "FILA",
+    "categoryName": "Lifestyle",
+    "description": "FILA Disruptor II Premium White với form chunky sneaker đặc trưng.",
+    "basePrice": 1800000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/Fila-Disruptor-II-Premium-White-Product.jpg",
+    "variants": [
+      { "sku": "FIL-DIS2-WHT-37", "color": "White", "size": "37", "stockQuantity": 7, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Fila-Disruptor-II-Premium-White-Product.jpg", "status": "ACTIVE" },
+      { "sku": "FIL-DIS2-WHT-38", "color": "White", "size": "38", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Fila-Disruptor-II-Premium-White-Product.jpg", "status": "ACTIVE" },
+      { "sku": "FIL-DIS2-WHT-39", "color": "White", "size": "39", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Fila-Disruptor-II-Premium-White-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "FILA Ray Tracer White Navy Red",
+    "slug": "fila-ray-tracer-white-navy-red",
+    "brandName": "FILA",
+    "categoryName": "Running",
+    "description": "FILA Ray Tracer phối trắng, navy và đỏ theo phong cách retro running.",
+    "basePrice": 2100000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/Fila-Ray-Tracer-White-Navy-Red-Product.jpg",
+    "variants": [
+      { "sku": "FIL-RAY-WNR-38", "color": "White/Navy/Red", "size": "38", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Fila-Ray-Tracer-White-Navy-Red-Product.jpg", "status": "ACTIVE" },
+      { "sku": "FIL-RAY-WNR-39", "color": "White/Navy/Red", "size": "39", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Fila-Ray-Tracer-White-Navy-Red-Product.jpg", "status": "ACTIVE" },
+      { "sku": "FIL-RAY-WNR-40", "color": "White/Navy/Red", "size": "40", "stockQuantity": 5, "additionalPrice": 50000, "imageUrl": "https://images.stockx.com/images/Fila-Ray-Tracer-White-Navy-Red-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Puma Suede Classic XXI Black White",
+    "slug": "puma-suede-classic-xxi-black-white",
+    "brandName": "Puma",
+    "categoryName": "Lifestyle",
+    "description": "Puma Suede Classic XXI phối đen trắng với upper suede đặc trưng.",
+    "basePrice": 1900000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/Puma-Suede-Classic-XXI-Black-White-Product.jpg",
+    "variants": [
+      { "sku": "PUM-SUEDE-BLK-39", "color": "Black/White", "size": "39", "stockQuantity": 8, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Puma-Suede-Classic-XXI-Black-White-Product.jpg", "status": "ACTIVE" },
+      { "sku": "PUM-SUEDE-BLK-40", "color": "Black/White", "size": "40", "stockQuantity": 7, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Puma-Suede-Classic-XXI-Black-White-Product.jpg", "status": "ACTIVE" },
+      { "sku": "PUM-SUEDE-BLK-41", "color": "Black/White", "size": "41", "stockQuantity": 5, "additionalPrice": 50000, "imageUrl": "https://images.stockx.com/images/Puma-Suede-Classic-XXI-Black-White-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Puma RS-X Reinvention White Red Blue",
+    "slug": "puma-rs-x-reinvention-white-red-blue",
+    "brandName": "Puma",
+    "categoryName": "Running",
+    "description": "Puma RS-X Reinvention phối trắng, đỏ và xanh theo phong cách chunky running.",
+    "basePrice": 2500000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/Puma-RS-X-Reinvention-White-Red-Blue-Product.jpg",
+    "variants": [
+      { "sku": "PUM-RSX-WRB-39", "color": "White/Red/Blue", "size": "39", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Puma-RS-X-Reinvention-White-Red-Blue-Product.jpg", "status": "ACTIVE" },
+      { "sku": "PUM-RSX-WRB-40", "color": "White/Red/Blue", "size": "40", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/Puma-RS-X-Reinvention-White-Red-Blue-Product.jpg", "status": "ACTIVE" },
+      { "sku": "PUM-RSX-WRB-41", "color": "White/Red/Blue", "size": "41", "stockQuantity": 4, "additionalPrice": 100000, "imageUrl": "https://images.stockx.com/images/Puma-RS-X-Reinvention-White-Red-Blue-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "MLB Big Ball Chunky A New York Yankees Ivory",
+    "slug": "mlb-big-ball-chunky-a-new-york-yankees-ivory",
+    "brandName": "MLB",
+    "categoryName": "Lifestyle",
+    "description": "MLB Big Ball Chunky A New York Yankees Ivory với logo NY nổi bật.",
+    "basePrice": 2400000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/MLB-Big-Ball-Chunky-A-New-York-Yankees-Ivory-Product.jpg",
+    "variants": [
+      { "sku": "MLB-BBC-NY-IVY-38", "color": "Ivory", "size": "38", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/MLB-Big-Ball-Chunky-A-New-York-Yankees-Ivory-Product.jpg", "status": "ACTIVE" },
+      { "sku": "MLB-BBC-NY-IVY-39", "color": "Ivory", "size": "39", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/MLB-Big-Ball-Chunky-A-New-York-Yankees-Ivory-Product.jpg", "status": "ACTIVE" },
+      { "sku": "MLB-BBC-NY-IVY-40", "color": "Ivory", "size": "40", "stockQuantity": 4, "additionalPrice": 50000, "imageUrl": "https://images.stockx.com/images/MLB-Big-Ball-Chunky-A-New-York-Yankees-Ivory-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "MLB Chunky Liner Mid Boston Red Sox Beige",
+    "slug": "mlb-chunky-liner-mid-boston-red-sox-beige",
+    "brandName": "MLB",
+    "categoryName": "Lifestyle",
+    "description": "MLB Chunky Liner Mid Boston Red Sox Beige với dáng cổ trung và form chunky.",
+    "basePrice": 2600000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/MLB-Chunky-Liner-Mid-Boston-Red-Sox-Beige-Product.jpg",
+    "variants": [
+      { "sku": "MLB-CLM-BOS-BGE-39", "color": "Beige", "size": "39", "stockQuantity": 4, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/MLB-Chunky-Liner-Mid-Boston-Red-Sox-Beige-Product.jpg", "status": "ACTIVE" },
+      { "sku": "MLB-CLM-BOS-BGE-40", "color": "Beige", "size": "40", "stockQuantity": 4, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/MLB-Chunky-Liner-Mid-Boston-Red-Sox-Beige-Product.jpg", "status": "ACTIVE" },
+      { "sku": "MLB-CLM-BOS-BGE-41", "color": "Beige", "size": "41", "stockQuantity": 3, "additionalPrice": 100000, "imageUrl": "https://images.stockx.com/images/MLB-Chunky-Liner-Mid-Boston-Red-Sox-Beige-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "New Balance 550 White Green",
+    "slug": "new-balance-550-white-green",
+    "brandName": "New Balance",
+    "categoryName": "Basketball",
+    "description": "New Balance 550 White Green lấy cảm hứng từ giày bóng rổ thập niên 1980.",
+    "basePrice": 3200000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg",
+    "variants": [
+      { "sku": "NB-550-WGR-39", "color": "White/Green", "size": "39", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NB-550-WGR-40", "color": "White/Green", "size": "40", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NB-550-WGR-41", "color": "White/Green", "size": "41", "stockQuantity": 5, "additionalPrice": 100000, "imageUrl": "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "New Balance 9060 Sea Salt",
+    "slug": "new-balance-9060-sea-salt",
+    "brandName": "New Balance",
+    "categoryName": "Running",
+    "description": "New Balance 9060 Sea Salt với thiết kế chunky hiện đại và phối màu trung tính.",
+    "basePrice": 3900000,
+    "status": "ACTIVE",
+    "imageUrl": "https://images.stockx.com/images/New-Balance-9060-Sea-Salt-Product.jpg",
+    "variants": [
+      { "sku": "NB-9060-SEA-39", "color": "Sea Salt", "size": "39", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/New-Balance-9060-Sea-Salt-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NB-9060-SEA-40", "color": "Sea Salt", "size": "40", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://images.stockx.com/images/New-Balance-9060-Sea-Salt-Product.jpg", "status": "ACTIVE" },
+      { "sku": "NB-9060-SEA-41", "color": "Sea Salt", "size": "41", "stockQuantity": 4, "additionalPrice": 100000, "imageUrl": "https://images.stockx.com/images/New-Balance-9060-Sea-Salt-Product.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Jeep Spirit Casual Outdoor Low Black",
+    "slug": "jeep-spirit-casual-outdoor-low-black",
+    "brandName": "Jeep",
+    "categoryName": "Lifestyle",
+    "description": "Jeep Spirit Casual Outdoor Low Black với dáng sneaker outdoor, phù hợp đi hằng ngày.",
+    "basePrice": 1700000,
+    "status": "ACTIVE",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Black.jpg",
+    "variants": [
+      { "sku": "JEP-SPIRIT-BLK-39", "color": "Black", "size": "39", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Black.jpg", "status": "ACTIVE" },
+      { "sku": "JEP-SPIRIT-BLK-40", "color": "Black", "size": "40", "stockQuantity": 6, "additionalPrice": 0, "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Black.jpg", "status": "ACTIVE" },
+      { "sku": "JEP-SPIRIT-BLK-41", "color": "Black", "size": "41", "stockQuantity": 5, "additionalPrice": 50000, "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Black.jpg", "status": "ACTIVE" }
+    ]
+  },
+  {
+    "name": "Jeep Elite Outdoor Sneaker Khaki",
+    "slug": "jeep-elite-outdoor-sneaker-khaki",
+    "brandName": "Jeep",
+    "categoryName": "Sneakers",
+    "description": "Jeep Elite Outdoor Sneaker Khaki với chất liệu bền, tông màu outdoor dễ phối.",
+    "basePrice": 1850000,
+    "status": "ACTIVE",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Khaki.jpg",
+    "variants": [
+      { "sku": "JEP-ELITE-KHK-39", "color": "Khaki", "size": "39", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Khaki.jpg", "status": "ACTIVE" },
+      { "sku": "JEP-ELITE-KHK-40", "color": "Khaki", "size": "40", "stockQuantity": 5, "additionalPrice": 0, "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Khaki.jpg", "status": "ACTIVE" },
+      { "sku": "JEP-ELITE-KHK-41", "color": "Khaki", "size": "41", "stockQuantity": 4, "additionalPrice": 50000, "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/Jeep-Spirit-Casual-Shoes-Khaki.jpg", "status": "ACTIVE" }
+    ]
+  }
+]
